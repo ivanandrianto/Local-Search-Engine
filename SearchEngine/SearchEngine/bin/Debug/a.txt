@@ -1,0 +1,2232 @@
+[Progress]0[/Progress]
+[Progress]0.005473753[/Progress]
+[Progress]0.01094751[/Progress]
+[Progress]0.01642126[/Progress]
+[Progress]0.02189501[/Progress]
+[Progress]0.02736877[/Progress]
+[Progress]0.03284252[/Progress]
+[Progress]0.03831627[/Progress]
+[Progress]0.04379003[/Progress]
+[Progress]0.04926378[/Progress]
+[Progress]0.05473753[/Progress]
+[Progress]0.06021129[/Progress]
+[Progress]0.06568504[/Progress]
+[Progress]0.0711588[/Progress]
+[Progress]0.07663254[/Progress]
+[Progress]0.0821063[/Progress]
+[Progress]0.08758005[/Progress]
+[Progress]0.0930538[/Progress]
+[Progress]0.09852756[/Progress]
+[Progress]0.1040013[/Progress]
+[Progress]0.1094751[/Progress]
+[Progress]0.1149488[/Progress]
+[Progress]0.1204226[/Progress]
+[Progress]0.1258963[/Progress]
+[Progress]0.1313701[/Progress]
+[Progress]0.1368438[/Progress]
+[Progress]0.1423176[/Progress]
+[Progress]0.1477913[/Progress]
+[Progress]0.1532651[/Progress]
+[Progress]0.1587389[/Progress]
+[Progress]0.1642126[/Progress]
+[Progress]0.1696864[/Progress]
+[Progress]0.1751601[/Progress]
+[Progress]0.1806339[/Progress]
+[Progress]0.1861076[/Progress]
+[Progress]0.1915814[/Progress]
+[Progress]0.1970551[/Progress]
+[Progress]0.2025289[/Progress]
+[Progress]0.2080026[/Progress]
+[Progress]0.2134764[/Progress]
+[Progress]0.2189501[/Progress]
+[Title]2015130.txt[/Title]
+[Location]C:\users\ivan\documents\2015130.txt[/Location]
+[Excerpt]]W[BACKSPACE]OWNLOAAD[BACKSPACE][BACKSPACE]D BOKEPIVANANDRIANTO48JKT5570[spasi]?[BACKSPACE][BACKSPAC[/Excerpt]
+[Progress]0.2244239[/Progress]
+[Progress]0.2298976[/Progress]
+[Title]201522.txt[/Title]
+[Location]C:\users\ivan\documents\201522.txt[/Location]
+[Excerpt][Bawah][Bawah][Bawah][Atas][Atas][spasi]?YAHOO.COMIVANANDRIANTO48JKT5570TIME [BACKSPACE][BACKSPACE][[/Excerpt]
+[Progress]0.2353714[/Progress]
+[Title]2015224-15048.txt[/Title]
+[Location]C:\users\ivan\documents\2015224-15048.txt[/Location]
+[Excerpt]][Kiri][Kiri]?[Tab][Tab]?[Tab][Kiri]''ANDRIANTO.IVAN[spasi]?2YAHOO.CO.ID[BACKSPACE]1?[Tab]?[Tab][/Excerpt]
+[Progress]0.2408451[/Progress]
+[Title]2015228-8375.txt[/Title]
+[Location]C:\users\ivan\documents\2015228-8375.txt[/Location]
+[Excerpt]ASU[BACKSPACE][BACKSPACE][BACKSPACE]IVANANDRIANTO?[Ctrl]R?[Ctrl]C?[Ctrl]?[Ctrl]V[Home]..?[Ctrl]R[BAC[/Excerpt]
+[Progress]0.2463189[/Progress]
+[Progress]0.2517926[/Progress]
+[Progress]0.2572664[/Progress]
+[Progress]0.2627402[/Progress]
+[Title]2015315-822.txt[/Title]
+[Location]C:\users\ivan\documents\2015315-822.txt[/Location]
+[Excerpt]ASU[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]IVAN[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]?[Ta[/Excerpt]
+[Progress]0.2682139[/Progress]
+[Progress]0.2736877[/Progress]
+[Title]2015322-91322.txt[/Title]
+[Location]C:\users\ivan\documents\2015322-91322.txt[/Location]
+[Excerpt][BACKSPACE] PADA SAF [BACKSPACE]E STATE.ITUGAS OS IVAN ANDRIAT[BACKSPACE][spasi]?[Home]TUGAS ?[spasi[/Excerpt]
+[Progress]0.2791614[/Progress]
+[Progress]0.2846352[/Progress]
+[Progress]0.2901089[/Progress]
+[Progress]0.2955827[/Progress]
+[Progress]0.3010564[/Progress]
+[Progress]0.3065302[/Progress]
+[Title]b.docx[/Title]
+[Location]C:\users\ivan\documents\b.docx[/Location]
+[Excerpt]Ivan Andrianto135130397.3.a. Need matrix        A  B  C  DP0    0  0  0  0P1    0  7  5  0P2    1  0[/Excerpt]
+[Progress]0.3120039[/Progress]
+[Progress]0.3174777[/Progress]
+[Progress]0.3229514[/Progress]
+[Progress]0.3284252[/Progress]
+[Progress]0.333899[/Progress]
+[Progress]0.3393727[/Progress]
+[Progress]0.3448465[/Progress]
+[Progress]0.3503202[/Progress]
+[Progress]0.355794[/Progress]
+[Progress]0.3612677[/Progress]
+[Progress]0.3667415[/Progress]
+[Progress]0.3722152[/Progress]
+[Progress]0.377689[/Progress]
+[Progress]0.3831627[/Progress]
+[Progress]0.3886365[/Progress]
+[Progress]0.3941102[/Progress]
+[Progress]0.399584[/Progress]
+[Progress]0.4050578[/Progress]
+[Title]IF2250 DASAR REKAYASA PERANGKAT LUNAK.docx[/Title]
+[Location]C:\users\ivan\documents\IF2250 DASAR REKAYASA PERANGKAT LUNAK.docx[/Location]
+[Excerpt]NGGOTA KELOMPOK:PRATAMA NUGRAHA DAMANIK (13513001)IVAN ANDRIANTO (13513039)WILHELMUS ANDRIAN T (1351[/Excerpt]
+[Progress]0.4105315[/Progress]
+[Title]Ivan Chibi.docx[/Title]
+[Location]C:\users\ivan\documents\Ivan Chibi.docx[/Location]
+[Excerpt]Ivan Chibi[/Excerpt]
+[Progress]0.4160053[/Progress]
+[Title]jawaban tugas os bab 5.docx[/Title]
+[Location]C:\users\ivan\documents\jawaban tugas os bab 5.docx[/Location]
+[Excerpt]Ivan Andrianto135130395.7. Race condition dapat terjadi karena dua proses yang berbeda mengakses dan[/Excerpt]
+[Progress]0.421479[/Progress]
+[Progress]0.4269528[/Progress]
+[Progress]0.4324265[/Progress]
+[Progress]0.4379003[/Progress]
+[Progress]0.443374[/Progress]
+[Progress]0.4488478[/Progress]
+[Progress]0.4543216[/Progress]
+[Title]laporan kakurasu.docx[/Title]
+[Location]C:\users\ivan\documents\laporan kakurasu.docx[/Location]
+[Excerpt]S KECIL 1 (KAKURASU)IF2211 STRATEGI ALGORITMAOleh:IVAN ANDRIANTO (13513039)TEKNIK INFORMATIKAINSTITU[/Excerpt]
+[Progress]0.4597953[/Progress]
+[Title]laporan tucil 2 stima.docx[/Title]
+[Location]C:\users\ivan\documents\laporan tucil 2 stima.docx[/Location]
+[Excerpt]Ivan Andrianto13513039LAPORAN TUGAS KECIL 2IF2211 STRATEGI ALGORITMAMembuat Program Mencari Pasangan[/Excerpt]
+[Progress]0.465269[/Progress]
+[Progress]0.4707428[/Progress]
+[Progress]0.4762165[/Progress]
+[Progress]0.4816903[/Progress]
+[Progress]0.487164[/Progress]
+[Progress]0.4926378[/Progress]
+[Progress]0.4981115[/Progress]
+[Progress]0.5035853[/Progress]
+[Progress]0.5090591[/Progress]
+[Progress]0.5145328[/Progress]
+[Progress]0.5200065[/Progress]
+[Progress]0.5254803[/Progress]
+[Progress]0.5309541[/Progress]
+[Progress]0[/Progress]
+[Progress]0.005473753[/Progress]
+[Progress]0.01094751[/Progress]
+[Progress]0.01642126[/Progress]
+[Progress]0.02189501[/Progress]
+[Progress]0.02736877[/Progress]
+[Progress]0.03284252[/Progress]
+[Progress]0.03831627[/Progress]
+[Progress]0.04379003[/Progress]
+[Progress]0.04926378[/Progress]
+[Progress]0.05473753[/Progress]
+[Progress]0.06021129[/Progress]
+[Progress]0.06568504[/Progress]
+[Progress]0.0711588[/Progress]
+[Progress]0.07663254[/Progress]
+[Progress]0.0821063[/Progress]
+[Progress]0.08758005[/Progress]
+[Progress]0.0930538[/Progress]
+[Progress]0.09852756[/Progress]
+[Progress]0.1040013[/Progress]
+[Progress]0.1094751[/Progress]
+[Progress]0.1149488[/Progress]
+[Progress]0.1204226[/Progress]
+[Progress]0.1258963[/Progress]
+[Progress]0.1313701[/Progress]
+[Progress]0.1368438[/Progress]
+[Progress]0.1423176[/Progress]
+[Progress]0.1477913[/Progress]
+[Progress]0.1532651[/Progress]
+[Progress]0.1587389[/Progress]
+[Progress]0.1642126[/Progress]
+[Progress]0.1696864[/Progress]
+[Progress]0.1751601[/Progress]
+[Progress]0.1806339[/Progress]
+[Progress]0.1861076[/Progress]
+[Progress]0.1915814[/Progress]
+[Progress]0.1970551[/Progress]
+[Progress]0.2025289[/Progress]
+[Progress]0.2080026[/Progress]
+[Progress]0.2134764[/Progress]
+[Progress]0.2189501[/Progress]
+[Title]2015130.txt[/Title]
+[Location]C:\users\ivan\documents\2015130.txt[/Location]
+[Excerpt]]W[BACKSPACE]OWNLOAAD[BACKSPACE][BACKSPACE]D BOKEPIVANANDRIANTO48JKT5570[spasi]?[BACKSPACE][BACKSPAC[/Excerpt]
+[Progress]0.2244239[/Progress]
+[Progress]0.2298976[/Progress]
+[Title]201522.txt[/Title]
+[Location]C:\users\ivan\documents\201522.txt[/Location]
+[Excerpt][Bawah][Bawah][Bawah][Atas][Atas][spasi]?YAHOO.COMIVANANDRIANTO48JKT5570TIME [BACKSPACE][BACKSPACE][[/Excerpt]
+[Progress]0.2353714[/Progress]
+[Title]2015224-15048.txt[/Title]
+[Location]C:\users\ivan\documents\2015224-15048.txt[/Location]
+[Excerpt]][Kiri][Kiri]?[Tab][Tab]?[Tab][Kiri]''ANDRIANTO.IVAN[spasi]?2YAHOO.CO.ID[BACKSPACE]1?[Tab]?[Tab][/Excerpt]
+[Progress]0.2408451[/Progress]
+[Title]2015228-8375.txt[/Title]
+[Location]C:\users\ivan\documents\2015228-8375.txt[/Location]
+[Excerpt]ASU[BACKSPACE][BACKSPACE][BACKSPACE]IVANANDRIANTO?[Ctrl]R?[Ctrl]C?[Ctrl]?[Ctrl]V[Home]..?[Ctrl]R[BAC[/Excerpt]
+[Progress]0.2463189[/Progress]
+[Progress]0.2517926[/Progress]
+[Progress]0.2572664[/Progress]
+[Progress]0.2627402[/Progress]
+[Title]2015315-822.txt[/Title]
+[Location]C:\users\ivan\documents\2015315-822.txt[/Location]
+[Excerpt]ASU[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]IVAN[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]?[Ta[/Excerpt]
+[Progress]0.2682139[/Progress]
+[Progress]0.2736877[/Progress]
+[Title]2015322-91322.txt[/Title]
+[Location]C:\users\ivan\documents\2015322-91322.txt[/Location]
+[Excerpt][BACKSPACE] PADA SAF [BACKSPACE]E STATE.ITUGAS OS IVAN ANDRIAT[BACKSPACE][spasi]?[Home]TUGAS ?[spasi[/Excerpt]
+[Progress]0.2791614[/Progress]
+[Progress]0.2846352[/Progress]
+[Progress]0.2901089[/Progress]
+[Progress]0.2955827[/Progress]
+[Progress]0.3010564[/Progress]
+[Progress]0.3065302[/Progress]
+[Title]b.docx[/Title]
+[Location]C:\users\ivan\documents\b.docx[/Location]
+[Excerpt]Ivan Andrianto135130397.3.a. Need matrix        A  B  C  DP0    0  0  0  0P1    0  7  5  0P2    1  0[/Excerpt]
+[Progress]0.3120039[/Progress]
+[Progress]0.3174777[/Progress]
+[Progress]0.3229514[/Progress]
+[Progress]0.3284252[/Progress]
+[Progress]0.333899[/Progress]
+[Progress]0.3393727[/Progress]
+[Progress]0.3448465[/Progress]
+[Progress]0.3503202[/Progress]
+[Progress]0.355794[/Progress]
+[Progress]0.3612677[/Progress]
+[Progress]0.3667415[/Progress]
+[Progress]0.3722152[/Progress]
+[Progress]0.377689[/Progress]
+[Progress]0.3831627[/Progress]
+[Progress]0.3886365[/Progress]
+[Progress]0.3941102[/Progress]
+[Progress]0.399584[/Progress]
+[Progress]0.4050578[/Progress]
+[Title]IF2250 DASAR REKAYASA PERANGKAT LUNAK.docx[/Title]
+[Location]C:\users\ivan\documents\IF2250 DASAR REKAYASA PERANGKAT LUNAK.docx[/Location]
+[Excerpt]NGGOTA KELOMPOK:PRATAMA NUGRAHA DAMANIK (13513001)IVAN ANDRIANTO (13513039)WILHELMUS ANDRIAN T (1351[/Excerpt]
+[Progress]0.4105315[/Progress]
+[Title]Ivan Chibi.docx[/Title]
+[Location]C:\users\ivan\documents\Ivan Chibi.docx[/Location]
+[Excerpt]Ivan Chibi[/Excerpt]
+[Progress]0.4160053[/Progress]
+[Title]jawaban tugas os bab 5.docx[/Title]
+[Location]C:\users\ivan\documents\jawaban tugas os bab 5.docx[/Location]
+[Excerpt]Ivan Andrianto135130395.7. Race condition dapat terjadi karena dua proses yang berbeda mengakses dan[/Excerpt]
+[Progress]0.421479[/Progress]
+[Progress]0.4269528[/Progress]
+[Progress]0.4324265[/Progress]
+[Progress]0.4379003[/Progress]
+[Progress]0.443374[/Progress]
+[Progress]0.4488478[/Progress]
+[Progress]0.4543216[/Progress]
+[Title]laporan kakurasu.docx[/Title]
+[Location]C:\users\ivan\documents\laporan kakurasu.docx[/Location]
+[Excerpt]S KECIL 1 (KAKURASU)IF2211 STRATEGI ALGORITMAOleh:IVAN ANDRIANTO (13513039)TEKNIK INFORMATIKAINSTITU[/Excerpt]
+[Progress]0.4597953[/Progress]
+[Title]laporan tucil 2 stima.docx[/Title]
+[Location]C:\users\ivan\documents\laporan tucil 2 stima.docx[/Location]
+[Excerpt]Ivan Andrianto13513039LAPORAN TUGAS KECIL 2IF2211 STRATEGI ALGORITMAMembuat Program Mencari Pasangan[/Excerpt]
+[Progress]0.465269[/Progress]
+[Progress]0.4707428[/Progress]
+[Progress]0.4762165[/Progress]
+[Progress]0.4816903[/Progress]
+[Progress]0.487164[/Progress]
+[Progress]0.4926378[/Progress]
+[Progress]0.4981115[/Progress]
+[Progress]0.5035853[/Progress]
+[Progress]0.5090591[/Progress]
+[Progress]0.5145328[/Progress]
+[Progress]0.5200065[/Progress]
+[Progress]0.5254803[/Progress]
+[Progress]0.5309541[/Progress]
+[Progress]0.5364279[/Progress]
+[Progress]0.5419016[/Progress]
+[Progress]0.5473753[/Progress]
+[Progress]0.5528491[/Progress]
+[Progress]0.5583228[/Progress]
+[Progress]0.5637966[/Progress]
+[Progress]0.5692704[/Progress]
+[Progress]0.5747441[/Progress]
+[Progress]0.5802179[/Progress]
+[Progress]0.5856916[/Progress]
+[Progress]0.5911654[/Progress]
+[Progress]0.5966391[/Progress]
+[Progress]0.6021128[/Progress]
+[Progress]0.6075866[/Progress]
+[Progress]0.6130604[/Progress]
+[Progress]0.6185341[/Progress]
+[Progress]0.6240079[/Progress]
+[Progress]0.6294816[/Progress]
+[Progress]0.6349554[/Progress]
+[Progress]0.6404291[/Progress]
+[Progress]0.6459029[/Progress]
+[Progress]0.6513767[/Progress]
+[Progress]0.6568504[/Progress]
+[Progress]0.6623241[/Progress]
+[Progress]0.6677979[/Progress]
+[Progress]0.6732717[/Progress]
+[Progress]0.6787454[/Progress]
+[Progress]0.6842192[/Progress]
+[Progress]0.6896929[/Progress]
+[Title]tgs kwn.docx[/Title]
+[Location]C:\users\ivan\documents\tgs kwn.docx[/Location]
+[Excerpt]Ivan Andrianto (13513039)Menurut Anda apakah Pancasila itu? Apakah nilai-nilainya universal?Pancasil[/Excerpt]
+[Progress]0.6951667[/Progress]
+[Progress]0.7006404[/Progress]
+[Progress]0.7061142[/Progress]
+[Progress]0.711588[/Progress]
+[Progress]0.7170617[/Progress]
+[Progress]0.7225354[/Progress]
+[Progress]0.7280092[/Progress]
+[Progress]0.733483[/Progress]
+[Title]tugas OS memori Ivan Andrianto 13513039.docx[/Title]
+[Location]C:\users\ivan\documents\tugas OS memori Ivan Andrianto 13513039.docx[/Location]
+[Excerpt]Ivan Andrianto135130398.20.Address ReferencePage NumberOffset308531342095411112152012101616500006347[/Excerpt]
+[Progress]0.7389567[/Progress]
+[Title]tugas os-.docx[/Title]
+[Location]C:\users\ivan\documents\tugas os-.docx[/Location]
+[Excerpt]TUGAS SISTEM OPERASIIvan Andrianto (13513039)Struktur-struktur sistem operasi dan pendekatan yang di[/Excerpt]
+[Progress]0.7444304[/Progress]
+[Progress]0.7499042[/Progress]
+[Progress]0.7553779[/Progress]
+[Title]Tugas Sistem Operasi Ivan Andrianto 135313039 Deadlock.docx[/Title]
+[Location]C:\users\ivan\documents\Tugas Sistem Operasi Ivan Andrianto 135313039 Deadlock.docx[/Location]
+[Excerpt]Ivan Andrianto135130397.3.a. Need matrix        A  B  C  DP0    0  0  0  0P1    0  7  5  0P2    1  0[/Excerpt]
+[Progress]0.7608517[/Progress]
+[Title]Tugas Sitem Operasi Ivan Andrianto 13513039.docx[/Title]
+[Location]C:\users\ivan\documents\Tugas Sitem Operasi Ivan Andrianto 13513039.docx[/Location]
+[Excerpt]TUGAS SISTEM OPERASIIvan Andrianto (13513039)Struktur-struktur sistem operasi dan pendekatan yang di[/Excerpt]
+[Progress]0.7663255[/Progress]
+[Title]uts agama.docx[/Title]
+[Location]C:\users\ivan\documents\uts agama.docx[/Location]
+[Excerpt]UTS - AGAMA DAN ETIKA KATOLIKIvan Andrianto13513039Teknik InformatikaInstitut Teknologi Bandung Manu[/Excerpt]
+[Progress]0.7717992[/Progress]
+[Progress]0.777273[/Progress]
+[Progress]0.7827467[/Progress]
+[Title][IF2230] Tugas Sinkronisasi Proses - 13513039.docx[/Title]
+[Location]C:\users\ivan\documents\[IF2230] Tugas Sinkronisasi Proses - 13513039.docx[/Location]
+[Excerpt]Ivan Andrianto135130395.7. Race condition dapat terjadi karena dua proses yang berbeda mengakses dan[/Excerpt]
+[Progress]0.7882205[/Progress]
+[Progress]0[/Progress]
+[Progress]0.005473753[/Progress]
+[Progress]0.01094751[/Progress]
+[Progress]0.01642126[/Progress]
+[Progress]0.02189501[/Progress]
+[Progress]0.02736877[/Progress]
+[Progress]0.03284252[/Progress]
+[Progress]0.03831627[/Progress]
+[Progress]0.04379003[/Progress]
+[Progress]0.04926378[/Progress]
+[Progress]0.05473753[/Progress]
+[Progress]0.06021129[/Progress]
+[Progress]0.06568504[/Progress]
+[Progress]0.0711588[/Progress]
+[Progress]0.07663254[/Progress]
+[Progress]0.0821063[/Progress]
+[Progress]0.08758005[/Progress]
+[Progress]0.0930538[/Progress]
+[Progress]0.09852756[/Progress]
+[Progress]0.1040013[/Progress]
+[Progress]0.1094751[/Progress]
+[Progress]0.1149488[/Progress]
+[Progress]0.1204226[/Progress]
+[Progress]0.1258963[/Progress]
+[Progress]0.1313701[/Progress]
+[Progress]0.1368438[/Progress]
+[Progress]0.1423176[/Progress]
+[Progress]0.1477913[/Progress]
+[Progress]0.1532651[/Progress]
+[Progress]0.1587389[/Progress]
+[Progress]0.1642126[/Progress]
+[Progress]0.1696864[/Progress]
+[Progress]0.1751601[/Progress]
+[Progress]0.1806339[/Progress]
+[Progress]0.1861076[/Progress]
+[Progress]0.1915814[/Progress]
+[Progress]0.1970551[/Progress]
+[Progress]0.2025289[/Progress]
+[Progress]0.2080026[/Progress]
+[Progress]0.2134764[/Progress]
+C:\users\ivan\documents\.htaccess
+[Progress]0.2189501[/Progress]
+C:\users\ivan\documents\2015130.txt
+[Title]2015130.txt[/Title]
+[Location]C:\users\ivan\documents\2015130.txt[/Location]
+[Excerpt]]W[BACKSPACE]OWNLOAAD[BACKSPACE][BACKSPACE]D BOKEPIVANANDRIANTO48JKT5570[spasi]?[BACKSPACE][BACKSPAC[/Excerpt]
+[Progress]0.2244239[/Progress]
+C:\users\ivan\documents\201522-1427.txt
+[Progress]0.2298976[/Progress]
+C:\users\ivan\documents\201522.txt
+[Title]201522.txt[/Title]
+[Location]C:\users\ivan\documents\201522.txt[/Location]
+[Excerpt][Bawah][Bawah][Bawah][Atas][Atas][spasi]?YAHOO.COMIVANANDRIANTO48JKT5570TIME [BACKSPACE][BACKSPACE][[/Excerpt]
+[Progress]0.2353714[/Progress]
+C:\users\ivan\documents\2015224-15048.txt
+[Title]2015224-15048.txt[/Title]
+[Location]C:\users\ivan\documents\2015224-15048.txt[/Location]
+[Excerpt]][Kiri][Kiri]?[Tab][Tab]?[Tab][Kiri]''ANDRIANTO.IVAN[spasi]?2YAHOO.CO.ID[BACKSPACE]1?[Tab]?[Tab][/Excerpt]
+[Progress]0.2408451[/Progress]
+C:\users\ivan\documents\2015228-8375.txt
+[Title]2015228-8375.txt[/Title]
+[Location]C:\users\ivan\documents\2015228-8375.txt[/Location]
+[Excerpt]ASU[BACKSPACE][BACKSPACE][BACKSPACE]IVANANDRIANTO?[Ctrl]R?[Ctrl]C?[Ctrl]?[Ctrl]V[Home]..?[Ctrl]R[BAC[/Excerpt]
+[Progress]0.2463189[/Progress]
+C:\users\ivan\documents\2015315-75536.txt
+[Progress]0.2517926[/Progress]
+C:\users\ivan\documents\2015315-75814.txt
+[Progress]0.2572664[/Progress]
+C:\users\ivan\documents\2015315-8034.txt
+[Progress]0.2627402[/Progress]
+C:\users\ivan\documents\2015315-822.txt
+[Title]2015315-822.txt[/Title]
+[Location]C:\users\ivan\documents\2015315-822.txt[/Location]
+[Excerpt]ASU[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]IVAN[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]?[Ta[/Excerpt]
+[Progress]0.2682139[/Progress]
+C:\users\ivan\documents\2015315.txt
+[Progress]0.2736877[/Progress]
+C:\users\ivan\documents\2015322-91322.txt
+[Title]2015322-91322.txt[/Title]
+[Location]C:\users\ivan\documents\2015322-91322.txt[/Location]
+[Excerpt][BACKSPACE] PADA SAF [BACKSPACE]E STATE.ITUGAS OS IVAN ANDRIAT[BACKSPACE][spasi]?[Home]TUGAS ?[spasi[/Excerpt]
+[Progress]0.2791614[/Progress]
+C:\users\ivan\documents\a.cpp
+[Progress]0.2846352[/Progress]
+C:\users\ivan\documents\a.exe
+[Progress]0.2901089[/Progress]
+C:\users\ivan\documents\a.pdf
+[Progress]0.2955827[/Progress]
+C:\users\ivan\documents\adsfa.txt
+[Progress]0.3010564[/Progress]
+C:\users\ivan\documents\adsfl.docx
+[Progress]0.3065302[/Progress]
+C:\users\ivan\documents\b.docx
+[Title]b.docx[/Title]
+[Location]C:\users\ivan\documents\b.docx[/Location]
+[Excerpt]Ivan Andrianto135130397.3.a. Need matrix        A  B  C  DP0    0  0  0  0P1    0  7  5  0P2    1  0[/Excerpt]
+[Progress]0.3120039[/Progress]
+C:\users\ivan\documents\b.pdf
+[Progress]0.3174777[/Progress]
+C:\users\ivan\documents\b2.pdf
+[Progress]0.3229514[/Progress]
+C:\users\ivan\documents\biodata.txt
+[Progress]0.3284252[/Progress]
+C:\users\ivan\documents\CalcFin.zip
+[Progress]0.333899[/Progress]
+C:\users\ivan\documents\Class1.class
+[Progress]0.3393727[/Progress]
+C:\users\ivan\documents\class1.java
+[Progress]0.3448465[/Progress]
+C:\users\ivan\documents\compilez.txt
+[Progress]0.3503202[/Progress]
+C:\users\ivan\documents\Default.rdp
+[Progress]0.355794[/Progress]
+C:\users\ivan\documents\desktop.ini
+[Progress]0.3612677[/Progress]
+C:\users\ivan\documents\Diskursus_Pancasila.docx
+[Progress]0.3667415[/Progress]
+C:\users\ivan\documents\FindText.exe
+[Progress]0.3722152[/Progress]
+C:\users\ivan\documents\fix.zip
+[Progress]0.377689[/Progress]
+C:\users\ivan\documents\flex 2 pro.txt
+[Progress]0.3831627[/Progress]
+C:\users\ivan\documents\gila kon.txt
+[Progress]0.3886365[/Progress]
+C:\users\ivan\documents\gila.zip
+[Progress]0.3941102[/Progress]
+C:\users\ivan\documents\grocery-crud-1.4.1.zip
+[Progress]0.399584[/Progress]
+C:\users\ivan\documents\HP EliteBook 850 G2.docx
+[Progress]0.4050578[/Progress]
+C:\users\ivan\documents\IF2250 DASAR REKAYASA PERANGKAT LUNAK.docx
+[Title]IF2250 DASAR REKAYASA PERANGKAT LUNAK.docx[/Title]
+[Location]C:\users\ivan\documents\IF2250 DASAR REKAYASA PERANGKAT LUNAK.docx[/Location]
+[Excerpt]NGGOTA KELOMPOK:PRATAMA NUGRAHA DAMANIK (13513001)IVAN ANDRIANTO (13513039)WILHELMUS ANDRIAN T (1351[/Excerpt]
+[Progress]0.4105315[/Progress]
+C:\users\ivan\documents\Ivan Chibi.docx
+[Title]Ivan Chibi.docx[/Title]
+[Location]C:\users\ivan\documents\Ivan Chibi.docx[/Location]
+[Excerpt]Ivan Chibi[/Excerpt]
+[Progress]0.4160053[/Progress]
+C:\users\ivan\documents\jawaban tugas os bab 5.docx
+[Title]jawaban tugas os bab 5.docx[/Title]
+[Location]C:\users\ivan\documents\jawaban tugas os bab 5.docx[/Location]
+[Excerpt]Ivan Andrianto135130395.7. Race condition dapat terjadi karena dua proses yang berbeda mengakses dan[/Excerpt]
+[Progress]0.421479[/Progress]
+C:\users\ivan\documents\kakurasu contoh.txt
+[Progress]0.4269528[/Progress]
+C:\users\ivan\documents\keylogger.cpp
+[Progress]0.4324265[/Progress]
+C:\users\ivan\documents\keylogger.exe
+[Progress]0.4379003[/Progress]
+C:\users\ivan\documents\keylogger2.cpp
+[Progress]0.443374[/Progress]
+C:\users\ivan\documents\keylogger2.exe
+[Progress]0.4488478[/Progress]
+C:\users\ivan\documents\kirabook 13 i7s1.docx
+[Progress]0.4543216[/Progress]
+C:\users\ivan\documents\laporan kakurasu.docx
+[Title]laporan kakurasu.docx[/Title]
+[Location]C:\users\ivan\documents\laporan kakurasu.docx[/Location]
+[Excerpt]S KECIL 1 (KAKURASU)IF2211 STRATEGI ALGORITMAOleh:IVAN ANDRIANTO (13513039)TEKNIK INFORMATIKAINSTITU[/Excerpt]
+[Progress]0.4597953[/Progress]
+C:\users\ivan\documents\laporan tucil 2 stima.docx
+[Title]laporan tucil 2 stima.docx[/Title]
+[Location]C:\users\ivan\documents\laporan tucil 2 stima.docx[/Location]
+[Excerpt]Ivan Andrianto13513039LAPORAN TUGAS KECIL 2IF2211 STRATEGI ALGORITMAMembuat Program Mencari Pasangan[/Excerpt]
+[Progress]0.465269[/Progress]
+C:\users\ivan\documents\lenovo g50-80.txt
+[Progress]0.4707428[/Progress]
+C:\users\ivan\documents\log chibi.txt
+[Progress]0.4762165[/Progress]
+C:\users\ivan\documents\LOG.TXT
+[Progress]0.4816903[/Progress]
+C:\users\ivan\documents\main.class
+[Progress]0.487164[/Progress]
+C:\users\ivan\documents\main.cpp
+[Progress]0.4926378[/Progress]
+C:\users\ivan\documents\main.java
+[Progress]0.4981115[/Progress]
+C:\users\ivan\documents\main.o
+[Progress]0.5035853[/Progress]
+C:\users\ivan\documents\Makefile.win
+[Progress]0.5090591[/Progress]
+C:\users\ivan\documents\new laptop.txt
+[Progress]0.5145328[/Progress]
+C:\users\ivan\documents\new.cpp
+[Progress]0.5200065[/Progress]
+C:\users\ivan\documents\new.exe
+[Progress]0.5254803[/Progress]
+C:\users\ivan\documents\o2010pia.msi
+[Progress]0.5309541[/Progress]
+C:\users\ivan\documents\o2010pia_eula.txt
+[Progress]0.5364279[/Progress]
+C:\users\ivan\documents\o2010pia_readme.rtf
+[Progress]0.5419016[/Progress]
+C:\users\ivan\documents\pass.txt
+[Progress]0.5473753[/Progress]
+C:\users\ivan\documents\perbaikan basdat.txt
+[Progress]0.5528491[/Progress]
+C:\users\ivan\documents\phonekosong.txt
+[Progress]0.5583228[/Progress]
+C:\users\ivan\documents\poster.txt
+[Progress]0.5637966[/Progress]
+C:\users\ivan\documents\print oop bola.docx
+[Progress]0.5692704[/Progress]
+C:\users\ivan\documents\Project1.dev
+[Progress]0.5747441[/Progress]
+C:\users\ivan\documents\Project1.exe
+[Progress]0.5802179[/Progress]
+C:\users\ivan\documents\q.cpp
+[Progress]0.5856916[/Progress]
+C:\users\ivan\documents\q.exe
+[Progress]0.5911654[/Progress]
+C:\users\ivan\documents\Reorganisasi pada dynamic hash dilakukan jika bucket penuh.docx
+[Progress]0.5966391[/Progress]
+C:\users\ivan\documents\responsive.html
+[Progress]0.6021128[/Progress]
+C:\users\ivan\documents\revisi oop.zip
+[Progress]0.6075866[/Progress]
+C:\users\ivan\documents\SearchEngine2.exe
+[Progress]0.6130604[/Progress]
+C:\users\ivan\documents\StrAlgo1-00039.rar
+[Progress]0.6185341[/Progress]
+C:\users\ivan\documents\StrAlgo1-00039.zip
+[Progress]0.6240079[/Progress]
+C:\users\ivan\documents\style.css
+[Progress]0.6294816[/Progress]
+C:\users\ivan\documents\teksz.txt
+[Progress]0.6349554[/Progress]
+C:\users\ivan\documents\tes.cpp
+[Progress]0.6404291[/Progress]
+C:\users\ivan\documents\tes.exe
+[Progress]0.6459029[/Progress]
+C:\users\ivan\documents\tes2.cpp
+[Progress]0.6513767[/Progress]
+C:\users\ivan\documents\tes2.exe
+[Progress]0.6568504[/Progress]
+C:\users\ivan\documents\tes3.cpp
+[Progress]0.6623241[/Progress]
+C:\users\ivan\documents\tes3.exe
+[Progress]0.6677979[/Progress]
+C:\users\ivan\documents\tes4.cpp
+[Progress]0.6732717[/Progress]
+C:\users\ivan\documents\tes4.exe
+[Progress]0.6787454[/Progress]
+C:\users\ivan\documents\testcase.txt
+[Progress]0.6842192[/Progress]
+C:\users\ivan\documents\testcase1.txt
+[Progress]0.6896929[/Progress]
+C:\users\ivan\documents\tgs kwn.docx
+[Title]tgs kwn.docx[/Title]
+[Location]C:\users\ivan\documents\tgs kwn.docx[/Location]
+[Excerpt]Ivan Andrianto (13513039)Menurut Anda apakah Pancasila itu? Apakah nilai-nilainya universal?Pancasil[/Excerpt]
+[Progress]0.6951667[/Progress]
+C:\users\ivan\documents\tiket pesawat.docx
+[Progress]0.7006404[/Progress]
+C:\users\ivan\documents\tubesoop (2).zip
+[Progress]0.7061142[/Progress]
+C:\users\ivan\documents\tubesoop (3).zip
+[Progress]0.711588[/Progress]
+C:\users\ivan\documents\tubesoop.zip
+[Progress]0.7170617[/Progress]
+C:\users\ivan\documents\tugas drpl.docx
+[Progress]0.7225354[/Progress]
+C:\users\ivan\documents\tugas oop zzz.docx
+[Progress]0.7280092[/Progress]
+C:\users\ivan\documents\tugas oopsw feawjkfe.docx
+[Progress]0.733483[/Progress]
+C:\users\ivan\documents\tugas OS memori Ivan Andrianto 13513039.docx
+[Title]tugas OS memori Ivan Andrianto 13513039.docx[/Title]
+[Location]C:\users\ivan\documents\tugas OS memori Ivan Andrianto 13513039.docx[/Location]
+[Excerpt]Ivan Andrianto135130398.20.Address ReferencePage NumberOffset308531342095411112152012101616500006347[/Excerpt]
+[Progress]0.7389567[/Progress]
+C:\users\ivan\documents\tugas os-.docx
+[Title]tugas os-.docx[/Title]
+[Location]C:\users\ivan\documents\tugas os-.docx[/Location]
+[Excerpt]TUGAS SISTEM OPERASIIvan Andrianto (13513039)Struktur-struktur sistem operasi dan pendekatan yang di[/Excerpt]
+[Progress]0.7444304[/Progress]
+C:\users\ivan\documents\tugas os.docx
+[Progress]0.7499042[/Progress]
+C:\users\ivan\documents\tugas rpl.docx
+[Progress]0.7553779[/Progress]
+C:\users\ivan\documents\Tugas Sistem Operasi Ivan Andrianto 135313039 Deadlock.docx
+[Title]Tugas Sistem Operasi Ivan Andrianto 135313039 Deadlock.docx[/Title]
+[Location]C:\users\ivan\documents\Tugas Sistem Operasi Ivan Andrianto 135313039 Deadlock.docx[/Location]
+[Excerpt]Ivan Andrianto135130397.3.a. Need matrix        A  B  C  DP0    0  0  0  0P1    0  7  5  0P2    1  0[/Excerpt]
+[Progress]0.7608517[/Progress]
+C:\users\ivan\documents\Tugas Sitem Operasi Ivan Andrianto 13513039.docx
+[Title]Tugas Sitem Operasi Ivan Andrianto 13513039.docx[/Title]
+[Location]C:\users\ivan\documents\Tugas Sitem Operasi Ivan Andrianto 13513039.docx[/Location]
+[Excerpt]TUGAS SISTEM OPERASIIvan Andrianto (13513039)Struktur-struktur sistem operasi dan pendekatan yang di[/Excerpt]
+[Progress]0.7663255[/Progress]
+C:\users\ivan\documents\uts agama.docx
+[Title]uts agama.docx[/Title]
+[Location]C:\users\ivan\documents\uts agama.docx[/Location]
+[Excerpt]UTS - AGAMA DAN ETIKA KATOLIKIvan Andrianto13513039Teknik InformatikaInstitut Teknologi Bandung Manu[/Excerpt]
+[Progress]0.7717992[/Progress]
+C:\users\ivan\documents\view.php
+[Progress]0.777273[/Progress]
+C:\users\ivan\documents\z.zip
+[Progress]0.7827467[/Progress]
+C:\users\ivan\documents\[IF2230] Tugas Sinkronisasi Proses - 13513039.docx
+[Title][IF2230] Tugas Sinkronisasi Proses - 13513039.docx[/Title]
+[Location]C:\users\ivan\documents\[IF2230] Tugas Sinkronisasi Proses - 13513039.docx[/Location]
+[Excerpt]Ivan Andrianto135130395.7. Race condition dapat terjadi karena dua proses yang berbeda mengakses dan[/Excerpt]
+[Progress]0.7882205[/Progress]
+C:\users\ivan\documents\~$adsfl.docx
+[Progress]0[/Progress]
+[Progress]0.005473753[/Progress]
+[Progress]0.01094751[/Progress]
+[Progress]0.01642126[/Progress]
+[Progress]0.02189501[/Progress]
+[Progress]0.02736877[/Progress]
+[Progress]0.03284252[/Progress]
+[Progress]0.03831627[/Progress]
+[Progress]0.04379003[/Progress]
+[Progress]0.04926378[/Progress]
+[Progress]0.05473753[/Progress]
+[Progress]0.06021129[/Progress]
+[Progress]0.06568504[/Progress]
+[Progress]0.0711588[/Progress]
+[Progress]0.07663254[/Progress]
+[Progress]0.0821063[/Progress]
+[Progress]0.08758005[/Progress]
+[Progress]0.0930538[/Progress]
+[Progress]0.09852756[/Progress]
+[Progress]0.1040013[/Progress]
+[Progress]0.1094751[/Progress]
+[Progress]0.1149488[/Progress]
+[Progress]0.1204226[/Progress]
+[Progress]0.1258963[/Progress]
+[Progress]0.1313701[/Progress]
+[Progress]0.1368438[/Progress]
+[Progress]0.1423176[/Progress]
+[Progress]0.1477913[/Progress]
+[Progress]0.1532651[/Progress]
+[Progress]0.1587389[/Progress]
+[Progress]0.1642126[/Progress]
+[Progress]0.1696864[/Progress]
+[Progress]0.1751601[/Progress]
+[Progress]0.1806339[/Progress]
+[Progress]0.1861076[/Progress]
+[Progress]0.1915814[/Progress]
+[Progress]0.1970551[/Progress]
+[Progress]0.2025289[/Progress]
+[Progress]0.2080026[/Progress]
+[Progress]0.2134764[/Progress]
+C:\users\ivan\documents\.htaccess
+[Progress]0.2189501[/Progress]
+C:\users\ivan\documents\2015130.txt
+[Title]2015130.txt[/Title]
+[Location]C:\users\ivan\documents\2015130.txt[/Location]
+[Excerpt]]W[BACKSPACE]OWNLOAAD[BACKSPACE][BACKSPACE]D BOKEPIVANANDRIANTO48JKT5570[spasi]?[BACKSPACE][BACKSPAC[/Excerpt]
+[Progress]0.2244239[/Progress]
+C:\users\ivan\documents\201522-1427.txt
+[Progress]0.2298976[/Progress]
+C:\users\ivan\documents\201522.txt
+[Title]201522.txt[/Title]
+[Location]C:\users\ivan\documents\201522.txt[/Location]
+[Excerpt][Bawah][Bawah][Bawah][Atas][Atas][spasi]?YAHOO.COMIVANANDRIANTO48JKT5570TIME [BACKSPACE][BACKSPACE][[/Excerpt]
+[Progress]0.2353714[/Progress]
+C:\users\ivan\documents\2015224-15048.txt
+[Title]2015224-15048.txt[/Title]
+[Location]C:\users\ivan\documents\2015224-15048.txt[/Location]
+[Excerpt]][Kiri][Kiri]?[Tab][Tab]?[Tab][Kiri]''ANDRIANTO.IVAN[spasi]?2YAHOO.CO.ID[BACKSPACE]1?[Tab]?[Tab][/Excerpt]
+[Progress]0.2408451[/Progress]
+C:\users\ivan\documents\2015228-8375.txt
+[Title]2015228-8375.txt[/Title]
+[Location]C:\users\ivan\documents\2015228-8375.txt[/Location]
+[Excerpt]ASU[BACKSPACE][BACKSPACE][BACKSPACE]IVANANDRIANTO?[Ctrl]R?[Ctrl]C?[Ctrl]?[Ctrl]V[Home]..?[Ctrl]R[BAC[/Excerpt]
+[Progress]0.2463189[/Progress]
+C:\users\ivan\documents\2015315-75536.txt
+[Progress]0.2517926[/Progress]
+C:\users\ivan\documents\2015315-75814.txt
+[Progress]0.2572664[/Progress]
+C:\users\ivan\documents\2015315-8034.txt
+[Progress]0.2627402[/Progress]
+C:\users\ivan\documents\2015315-822.txt
+[Title]2015315-822.txt[/Title]
+[Location]C:\users\ivan\documents\2015315-822.txt[/Location]
+[Excerpt]ASU[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]IVAN[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]?[Ta[/Excerpt]
+[Progress]0.2682139[/Progress]
+C:\users\ivan\documents\2015315.txt
+[Progress]0.2736877[/Progress]
+C:\users\ivan\documents\2015322-91322.txt
+[Title]2015322-91322.txt[/Title]
+[Location]C:\users\ivan\documents\2015322-91322.txt[/Location]
+[Excerpt][BACKSPACE] PADA SAF [BACKSPACE]E STATE.ITUGAS OS IVAN ANDRIAT[BACKSPACE][spasi]?[Home]TUGAS ?[spasi[/Excerpt]
+[Progress]0.2791614[/Progress]
+C:\users\ivan\documents\a.cpp
+[Progress]0.2846352[/Progress]
+C:\users\ivan\documents\a.exe
+[Progress]0.2901089[/Progress]
+C:\users\ivan\documents\a.pdf
+[Progress]0.2955827[/Progress]
+C:\users\ivan\documents\adsfa.txt
+[Progress]0.3010564[/Progress]
+C:\users\ivan\documents\adsfl.docx
+[Progress]0.3065302[/Progress]
+C:\users\ivan\documents\b.docx
+[Title]b.docx[/Title]
+[Location]C:\users\ivan\documents\b.docx[/Location]
+[Excerpt]Ivan Andrianto135130397.3.a. Need matrix        A  B  C  DP0    0  0  0  0P1    0  7  5  0P2    1  0[/Excerpt]
+[Progress]0.3120039[/Progress]
+C:\users\ivan\documents\b.pdf
+[Progress]0.3174777[/Progress]
+C:\users\ivan\documents\b2.pdf
+[Progress]0.3229514[/Progress]
+C:\users\ivan\documents\biodata.txt
+[Progress]0.3284252[/Progress]
+C:\users\ivan\documents\CalcFin.zip
+[Progress]0.333899[/Progress]
+C:\users\ivan\documents\Class1.class
+[Progress]0.3393727[/Progress]
+C:\users\ivan\documents\class1.java
+[Progress]0.3448465[/Progress]
+C:\users\ivan\documents\compilez.txt
+[Progress]0.3503202[/Progress]
+C:\users\ivan\documents\Default.rdp
+[Progress]0.355794[/Progress]
+C:\users\ivan\documents\desktop.ini
+[Progress]0.3612677[/Progress]
+C:\users\ivan\documents\Diskursus_Pancasila.docx
+[Progress]0.3667415[/Progress]
+C:\users\ivan\documents\FindText.exe
+[Progress]0.3722152[/Progress]
+C:\users\ivan\documents\fix.zip
+[Progress]0.377689[/Progress]
+C:\users\ivan\documents\flex 2 pro.txt
+[Progress]0.3831627[/Progress]
+C:\users\ivan\documents\gila kon.txt
+[Progress]0.3886365[/Progress]
+C:\users\ivan\documents\gila.zip
+[Progress]0.3941102[/Progress]
+C:\users\ivan\documents\grocery-crud-1.4.1.zip
+[Progress]0.399584[/Progress]
+C:\users\ivan\documents\HP EliteBook 850 G2.docx
+[Progress]0.4050578[/Progress]
+C:\users\ivan\documents\IF2250 DASAR REKAYASA PERANGKAT LUNAK.docx
+[Title]IF2250 DASAR REKAYASA PERANGKAT LUNAK.docx[/Title]
+[Location]C:\users\ivan\documents\IF2250 DASAR REKAYASA PERANGKAT LUNAK.docx[/Location]
+[Excerpt]NGGOTA KELOMPOK:PRATAMA NUGRAHA DAMANIK (13513001)IVAN ANDRIANTO (13513039)WILHELMUS ANDRIAN T (1351[/Excerpt]
+[Progress]0.4105315[/Progress]
+C:\users\ivan\documents\Ivan Chibi.docx
+[Title]Ivan Chibi.docx[/Title]
+[Location]C:\users\ivan\documents\Ivan Chibi.docx[/Location]
+[Excerpt]Ivan Chibi[/Excerpt]
+[Progress]0.4160053[/Progress]
+C:\users\ivan\documents\jawaban tugas os bab 5.docx
+[Title]jawaban tugas os bab 5.docx[/Title]
+[Location]C:\users\ivan\documents\jawaban tugas os bab 5.docx[/Location]
+[Excerpt]Ivan Andrianto135130395.7. Race condition dapat terjadi karena dua proses yang berbeda mengakses dan[/Excerpt]
+[Progress]0.421479[/Progress]
+C:\users\ivan\documents\kakurasu contoh.txt
+[Progress]0.4269528[/Progress]
+C:\users\ivan\documents\keylogger.cpp
+[Progress]0.4324265[/Progress]
+C:\users\ivan\documents\keylogger.exe
+[Progress]0.4379003[/Progress]
+C:\users\ivan\documents\keylogger2.cpp
+[Progress]0.443374[/Progress]
+C:\users\ivan\documents\keylogger2.exe
+[Progress]0.4488478[/Progress]
+C:\users\ivan\documents\kirabook 13 i7s1.docx
+[Progress]0.4543216[/Progress]
+C:\users\ivan\documents\laporan kakurasu.docx
+[Title]laporan kakurasu.docx[/Title]
+[Location]C:\users\ivan\documents\laporan kakurasu.docx[/Location]
+[Excerpt]S KECIL 1 (KAKURASU)IF2211 STRATEGI ALGORITMAOleh:IVAN ANDRIANTO (13513039)TEKNIK INFORMATIKAINSTITU[/Excerpt]
+[Progress]0.4597953[/Progress]
+C:\users\ivan\documents\laporan tucil 2 stima.docx
+[Title]laporan tucil 2 stima.docx[/Title]
+[Location]C:\users\ivan\documents\laporan tucil 2 stima.docx[/Location]
+[Excerpt]Ivan Andrianto13513039LAPORAN TUGAS KECIL 2IF2211 STRATEGI ALGORITMAMembuat Program Mencari Pasangan[/Excerpt]
+[Progress]0.465269[/Progress]
+C:\users\ivan\documents\lenovo g50-80.txt
+[Progress]0.4707428[/Progress]
+C:\users\ivan\documents\log chibi.txt
+[Progress]0.4762165[/Progress]
+C:\users\ivan\documents\LOG.TXT
+[Progress]0.4816903[/Progress]
+C:\users\ivan\documents\main.class
+[Progress]0.487164[/Progress]
+C:\users\ivan\documents\main.cpp
+[Progress]0.4926378[/Progress]
+C:\users\ivan\documents\main.java
+[Progress]0.4981115[/Progress]
+C:\users\ivan\documents\main.o
+[Progress]0.5035853[/Progress]
+C:\users\ivan\documents\Makefile.win
+[Progress]0.5090591[/Progress]
+C:\users\ivan\documents\new laptop.txt
+[Progress]0.5145328[/Progress]
+C:\users\ivan\documents\new.cpp
+[Progress]0.5200065[/Progress]
+C:\users\ivan\documents\new.exe
+[Progress]0.5254803[/Progress]
+C:\users\ivan\documents\o2010pia.msi
+[Progress]0.5309541[/Progress]
+C:\users\ivan\documents\o2010pia_eula.txt
+[Progress]0.5364279[/Progress]
+C:\users\ivan\documents\o2010pia_readme.rtf
+[Progress]0.5419016[/Progress]
+C:\users\ivan\documents\pass.txt
+[Progress]0.5473753[/Progress]
+C:\users\ivan\documents\perbaikan basdat.txt
+[Progress]0.5528491[/Progress]
+C:\users\ivan\documents\phonekosong.txt
+[Progress]0.5583228[/Progress]
+C:\users\ivan\documents\poster.txt
+[Progress]0.5637966[/Progress]
+C:\users\ivan\documents\print oop bola.docx
+[Progress]0.5692704[/Progress]
+C:\users\ivan\documents\Project1.dev
+[Progress]0.5747441[/Progress]
+C:\users\ivan\documents\Project1.exe
+[Progress]0.5802179[/Progress]
+C:\users\ivan\documents\q.cpp
+[Progress]0.5856916[/Progress]
+C:\users\ivan\documents\q.exe
+[Progress]0.5911654[/Progress]
+C:\users\ivan\documents\Reorganisasi pada dynamic hash dilakukan jika bucket penuh.docx
+[Progress]0.5966391[/Progress]
+C:\users\ivan\documents\responsive.html
+[Progress]0.6021128[/Progress]
+C:\users\ivan\documents\revisi oop.zip
+[Progress]0.6075866[/Progress]
+C:\users\ivan\documents\SearchEngine2.exe
+[Progress]0.6130604[/Progress]
+C:\users\ivan\documents\StrAlgo1-00039.rar
+[Progress]0.6185341[/Progress]
+C:\users\ivan\documents\StrAlgo1-00039.zip
+[Progress]0.6240079[/Progress]
+C:\users\ivan\documents\style.css
+[Progress]0.6294816[/Progress]
+C:\users\ivan\documents\teksz.txt
+[Progress]0.6349554[/Progress]
+C:\users\ivan\documents\tes.cpp
+[Progress]0.6404291[/Progress]
+C:\users\ivan\documents\tes.exe
+[Progress]0.6459029[/Progress]
+C:\users\ivan\documents\tes2.cpp
+[Progress]0.6513767[/Progress]
+C:\users\ivan\documents\tes2.exe
+[Progress]0.6568504[/Progress]
+C:\users\ivan\documents\tes3.cpp
+[Progress]0.6623241[/Progress]
+C:\users\ivan\documents\tes3.exe
+[Progress]0.6677979[/Progress]
+C:\users\ivan\documents\tes4.cpp
+[Progress]0.6732717[/Progress]
+C:\users\ivan\documents\tes4.exe
+[Progress]0.6787454[/Progress]
+C:\users\ivan\documents\testcase.txt
+[Progress]0.6842192[/Progress]
+C:\users\ivan\documents\testcase1.txt
+[Progress]0.6896929[/Progress]
+C:\users\ivan\documents\tgs kwn.docx
+[Title]tgs kwn.docx[/Title]
+[Location]C:\users\ivan\documents\tgs kwn.docx[/Location]
+[Excerpt]Ivan Andrianto (13513039)Menurut Anda apakah Pancasila itu? Apakah nilai-nilainya universal?Pancasil[/Excerpt]
+[Progress]0.6951667[/Progress]
+C:\users\ivan\documents\tiket pesawat.docx
+[Progress]0.7006404[/Progress]
+C:\users\ivan\documents\tubesoop (2).zip
+[Progress]0.7061142[/Progress]
+C:\users\ivan\documents\tubesoop (3).zip
+[Progress]0.711588[/Progress]
+C:\users\ivan\documents\tubesoop.zip
+[Progress]0.7170617[/Progress]
+C:\users\ivan\documents\tugas drpl.docx
+[Progress]0.7225354[/Progress]
+C:\users\ivan\documents\tugas oop zzz.docx
+[Progress]0.7280092[/Progress]
+C:\users\ivan\documents\tugas oopsw feawjkfe.docx
+[Progress]0.733483[/Progress]
+C:\users\ivan\documents\tugas OS memori Ivan Andrianto 13513039.docx
+[Title]tugas OS memori Ivan Andrianto 13513039.docx[/Title]
+[Location]C:\users\ivan\documents\tugas OS memori Ivan Andrianto 13513039.docx[/Location]
+[Excerpt]Ivan Andrianto135130398.20.Address ReferencePage NumberOffset308531342095411112152012101616500006347[/Excerpt]
+[Progress]0.7389567[/Progress]
+C:\users\ivan\documents\tugas os-.docx
+[Title]tugas os-.docx[/Title]
+[Location]C:\users\ivan\documents\tugas os-.docx[/Location]
+[Excerpt]TUGAS SISTEM OPERASIIvan Andrianto (13513039)Struktur-struktur sistem operasi dan pendekatan yang di[/Excerpt]
+[Progress]0.7444304[/Progress]
+C:\users\ivan\documents\tugas os.docx
+[Progress]0.7499042[/Progress]
+C:\users\ivan\documents\tugas rpl.docx
+[Progress]0.7553779[/Progress]
+C:\users\ivan\documents\Tugas Sistem Operasi Ivan Andrianto 135313039 Deadlock.docx
+[Title]Tugas Sistem Operasi Ivan Andrianto 135313039 Deadlock.docx[/Title]
+[Location]C:\users\ivan\documents\Tugas Sistem Operasi Ivan Andrianto 135313039 Deadlock.docx[/Location]
+[Excerpt]Ivan Andrianto135130397.3.a. Need matrix        A  B  C  DP0    0  0  0  0P1    0  7  5  0P2    1  0[/Excerpt]
+[Progress]0.7608517[/Progress]
+C:\users\ivan\documents\Tugas Sitem Operasi Ivan Andrianto 13513039.docx
+[Title]Tugas Sitem Operasi Ivan Andrianto 13513039.docx[/Title]
+[Location]C:\users\ivan\documents\Tugas Sitem Operasi Ivan Andrianto 13513039.docx[/Location]
+[Excerpt]TUGAS SISTEM OPERASIIvan Andrianto (13513039)Struktur-struktur sistem operasi dan pendekatan yang di[/Excerpt]
+[Progress]0.7663255[/Progress]
+C:\users\ivan\documents\uts agama.docx
+[Title]uts agama.docx[/Title]
+[Location]C:\users\ivan\documents\uts agama.docx[/Location]
+[Excerpt]UTS - AGAMA DAN ETIKA KATOLIKIvan Andrianto13513039Teknik InformatikaInstitut Teknologi Bandung Manu[/Excerpt]
+[Progress]0.7717992[/Progress]
+C:\users\ivan\documents\view.php
+[Progress]0.777273[/Progress]
+C:\users\ivan\documents\z.zip
+[Progress]0.7827467[/Progress]
+C:\users\ivan\documents\[IF2230] Tugas Sinkronisasi Proses - 13513039.docx
+[Title][IF2230] Tugas Sinkronisasi Proses - 13513039.docx[/Title]
+[Location]C:\users\ivan\documents\[IF2230] Tugas Sinkronisasi Proses - 13513039.docx[/Location]
+[Excerpt]Ivan Andrianto135130395.7. Race condition dapat terjadi karena dua proses yang berbeda mengakses dan[/Excerpt]
+[Progress]0.7882205[/Progress]
+C:\users\ivan\documents\~$adsfl.docx
+[Progress]0.7936943[/Progress]
+C:\users\ivan\documents\~$gas makalah matdis.docx
+[Progress]0.799168[/Progress]
+C:\users\ivan\documents\~$gas Sistem Operasi Ivan Andrianto 135313039 Deadlock.docx
+[Title]~$gas Sistem Operasi Ivan Andrianto 135313039 Deadlock.docx[/Title]
+[Location]C:\users\ivan\documents\~$gas Sistem Operasi Ivan Andrianto 135313039 Deadlock.docx[/Location]
+[Excerpt]~$gas Sistem Operasi Ivan Andrianto 135313039 Deadlock.docx[/Excerpt]
+[Progress]0.8046417[/Progress]
+C:\users\ivan\documents\~WRL2920.tmp
+[Progress]0.8101155[/Progress]
+C:\users\ivan\documents\~WRL4041.tmp
+[Progress]0.8155892[/Progress]
+C:\users\ivan\documents\adt\10632798_391867504309617_7962583029319609691_n.jpg
+[Progress]0.821063[/Progress]
+C:\users\ivan\documents\adt\10710844_787750374601147_3167799036226129798_n.jpg
+[Progress]0.8265368[/Progress]
+C:\users\ivan\documents\adt\ad queue 3.zip
+[Progress]0.8320105[/Progress]
+C:\users\ivan\documents\adt\adt array.zip
+[Progress]0.8374843[/Progress]
+C:\users\ivan\documents\adt\adt listberkaitlinier.zip
+[Progress]0.842958[/Progress]
+C:\users\ivan\documents\adt\adt listganda.zip
+[Progress]0.8484318[/Progress]
+C:\users\ivan\documents\adt\adt listrekursif.zip
+[Progress]0.8539056[/Progress]
+C:\users\ivan\documents\adt\adt matriks.zip
+[Progress]0.8593793[/Progress]
+C:\users\ivan\documents\adt\adt mesinkata.zip
+[Progress]0.8648531[/Progress]
+C:\users\ivan\documents\adt\adt set.h
+[Progress]0.8703268[/Progress]
+C:\users\ivan\documents\adt\binarytree.c
+[Progress]0.8758005[/Progress]
+C:\users\ivan\documents\adt\binarytree.h
+[Progress]0.8812743[/Progress]
+C:\users\ivan\documents\adt\bookmark.txt
+[Progress]0.8867481[/Progress]
+C:\users\ivan\documents\adt\boolean.h
+[Progress]0.8922218[/Progress]
+C:\users\ivan\documents\adt\casting.c
+[Progress]0.8976956[/Progress]
+C:\users\ivan\documents\adt\casting.exe
+[Progress]0.9031693[/Progress]
+C:\users\ivan\documents\adt\commandz2.txt
+[Progress]0.9086431[/Progress]
+C:\users\ivan\documents\adt\Desktop - Shortcut.lnk
+[Progress]0.9141169[/Progress]
+C:\users\ivan\documents\adt\facebook.txt
+[Progress]0.9195905[/Progress]
+C:\users\ivan\documents\adt\fileeks.exe
+[Progress]0.9250643[/Progress]
+C:\users\ivan\documents\adt\file_eks.c
+[Progress]0.9305381[/Progress]
+C:\users\ivan\documents\adt\file_eks.txt
+[Progress]0.9360118[/Progress]
+C:\users\ivan\documents\adt\garis.c
+[Title]garis.c[/Title]
+[Location]C:\users\ivan\documents\adt\garis.c[/Location]
+[Excerpt]/* NIM/Nama : Ivan Andrianto 13531039Nama file : garis.cTopik : garisTanggal : 4 September 2014Deskr[/Excerpt]
+[Progress]0.9414855[/Progress]
+C:\users\ivan\documents\adt\garis.h
+[Progress]0.9469593[/Progress]
+C:\users\ivan\documents\adt\IF2110-StackQueueRepList.pdf
+[Progress]0.952433[/Progress]
+C:\users\ivan\documents\adt\jam.c
+[Progress]0.9579068[/Progress]
+C:\users\ivan\documents\adt\jam.exe
+[Progress]0.9633806[/Progress]
+C:\users\ivan\documents\adt\jam.h
+[Progress]0.9688543[/Progress]
+C:\users\ivan\documents\adt\jam_.c
+[Progress]0.974328[/Progress]
+C:\users\ivan\documents\adt\jwban bis.txt
+[Progress]0.9798018[/Progress]
+C:\users\ivan\documents\adt\listbl1 - Copy.c
+[Progress]0.9852756[/Progress]
+C:\users\ivan\documents\adt\listbl1 - Copy.h
+[Progress]0.9907494[/Progress]
+C:\users\ivan\documents\adt\listbl1.c
+[Progress]0.9962231[/Progress]
+C:\users\ivan\documents\adt\listbl1.exe
+[Progress]1.001697[/Progress]
+C:\users\ivan\documents\adt\listbl1.h
+[Progress]1.007171[/Progress]
+C:\users\ivan\documents\adt\listganda.c
+[Progress]1.012644[/Progress]
+C:\users\ivan\documents\adt\listganda.exe
+[Progress]1.018118[/Progress]
+C:\users\ivan\documents\adt\listganda.h
+[Progress]1.023592[/Progress]
+C:\users\ivan\documents\adt\listrekursif.c
+[Progress]1.029066[/Progress]
+C:\users\ivan\documents\adt\listrekursif.exe
+[Progress]1.034539[/Progress]
+C:\users\ivan\documents\adt\listrekursif.h
+[Progress]1.040013[/Progress]
+C:\users\ivan\documents\adt\main.c
+[Progress]1.045487[/Progress]
+C:\users\ivan\documents\adt\main.exe
+[Progress]1.050961[/Progress]
+C:\users\ivan\documents\adt\mainkar.c
+[Progress]1.056434[/Progress]
+C:\users\ivan\documents\adt\mainkar.exe
+[Progress]1.061908[/Progress]
+C:\users\ivan\documents\adt\mainkata.c
+[Progress]1.067382[/Progress]
+C:\users\ivan\documents\adt\mainkata.exe
+[Progress]1.072856[/Progress]
+C:\users\ivan\documents\adt\matriks.c
+[Progress]1.078329[/Progress]
+C:\users\ivan\documents\adt\matriks.exe
+[Progress]1.083803[/Progress]
+C:\users\ivan\documents\adt\matriks.h
+[Progress]1.089277[/Progress]
+C:\users\ivan\documents\adt\mbinarytree.c
+[Progress]1.094751[/Progress]
+C:\users\ivan\documents\adt\mesinkar1.c
+[Progress]1.100224[/Progress]
+C:\users\ivan\documents\adt\mesinkar1.h
+[Progress]1.105698[/Progress]
+C:\users\ivan\documents\adt\mesinkata1.c
+[Progress]1.111172[/Progress]
+C:\users\ivan\documents\adt\mesinkata1.h
+[Progress]1.116646[/Progress]
+C:\users\ivan\documents\adt\mlistbl1 - Copy.c
+[Title]mlistbl1 - Copy.c[/Title]
+[Location]C:\users\ivan\documents\adt\mlistbl1 - Copy.c[/Location]
+[Excerpt]/*Ivan Andrianto 13513039*/#include <stdio.h>#include "listbl1.h"#include "boolean.h"List L,L2,L3;in[/Excerpt]
+[Progress]1.122119[/Progress]
+C:\users\ivan\documents\adt\mlistbl1.c
+[Title]mlistbl1.c[/Title]
+[Location]C:\users\ivan\documents\adt\mlistbl1.c[/Location]
+[Excerpt]/*Ivan Andrianto 13513039*/#include <stdio.h>#include "listbl1.h"#include "boolean.h"List L,L2,L3;in[/Excerpt]
+[Progress]1.127593[/Progress]
+C:\users\ivan\documents\adt\mlistganda.c
+[Progress]1.133067[/Progress]
+C:\users\ivan\documents\adt\mlistrekursif.c
+[Progress]1.138541[/Progress]
+C:\users\ivan\documents\adt\mmatriks.c
+[Progress]1.144014[/Progress]
+C:\users\ivan\documents\adt\mpoint - Copy (2).c
+[Title]mpoint - Copy (2).c[/Title]
+[Location]C:\users\ivan\documents\adt\mpoint - Copy (2).c[/Location]
+[Excerpt]/*Ivan Andrianto 13513039*/#include <stdio.h>#include "point.h"#include "boolean.h"int main() {	floa[/Excerpt]
+[Progress]1.149488[/Progress]
+C:\users\ivan\documents\adt\mpoint - Copy.c
+[Title]mpoint - Copy.c[/Title]
+[Location]C:\users\ivan\documents\adt\mpoint - Copy.c[/Location]
+[Excerpt]/*Ivan Andrianto 13513039*/#include <stdio.h>#include "point.h"#include "boolean.h"int main() {	floa[/Excerpt]
+[Progress]1.154962[/Progress]
+C:\users\ivan\documents\adt\mpoint.c
+[Title]mpoint.c[/Title]
+[Location]C:\users\ivan\documents\adt\mpoint.c[/Location]
+[Excerpt]/*Ivan Andrianto 13513039*/#include <stdio.h>#include "point.h"#include "boolean.h"int main() {	floa[/Excerpt]
+[Progress]1.160436[/Progress]
+C:\users\ivan\documents\adt\mqueue1.c
+[Progress]1.16591[/Progress]
+C:\users\ivan\documents\adt\mqueue2.c
+[Progress]1.171383[/Progress]
+C:\users\ivan\documents\adt\mqueue3 - Copy.c
+[Progress]1.176857[/Progress]
+C:\users\ivan\documents\adt\mqueue3.c
+[Progress]1.182331[/Progress]
+C:\users\ivan\documents\adt\mtabel.c
+[Title]mtabel.c[/Title]
+[Location]C:\users\ivan\documents\adt\mtabel.c[/Location]
+[Excerpt]/*Ivan Andrianto 13513039*/#include <stdio.h>#include "tabel1.h"#include "boolean.h"int main() {	Idx[/Excerpt]
+[Progress]1.187804[/Progress]
+C:\users\ivan\documents\adt\mtabel2.c
+[Title]mtabel2.c[/Title]
+[Location]C:\users\ivan\documents\adt\mtabel2.c[/Location]
+[Excerpt]/*Ivan Andrianto 13513039*/#include <stdio.h>#include "tabel2.h"#include "boolean.h"int main() {	Idx[/Excerpt]
+[Progress]1.193278[/Progress]
+C:\users\ivan\documents\adt\mwaktu.c
+[Progress]1.198752[/Progress]
+C:\users\ivan\documents\adt\pitakar.txt
+[Progress]1.204226[/Progress]
+C:\users\ivan\documents\adt\point - Copy (2).c
+[Title]point - Copy (2).c[/Title]
+[Location]C:\users\ivan\documents\adt\point - Copy (2).c[/Location]
+[Excerpt]/*  POINT.CIvan Andrianto 13513039 */#include <stdio.h>#include <stdbool.h>#include <math.h>#include[/Excerpt]
+[Progress]1.2097[/Progress]
+C:\users\ivan\documents\adt\point - Copy (2).h
+[Progress]1.215173[/Progress]
+C:\users\ivan\documents\adt\point - Copy.c
+[Title]point - Copy.c[/Title]
+[Location]C:\users\ivan\documents\adt\point - Copy.c[/Location]
+[Excerpt]/*  POINT.CIvan Andrianto 13513039 */#include <stdio.h>#include <stdbool.h>#include <math.h>#include[/Excerpt]
+[Progress]1.220647[/Progress]
+C:\users\ivan\documents\adt\point - Copy.h
+[Progress]1.226121[/Progress]
+C:\users\ivan\documents\adt\point c old.txt
+[Progress]1.231594[/Progress]
+C:\users\ivan\documents\adt\point.c
+[Title]point.c[/Title]
+[Location]C:\users\ivan\documents\adt\point.c[/Location]
+[Excerpt]/*  POINT.CIvan Andrianto 13513039 */#include <stdio.h>#include <stdbool.h>#include <math.h>#include[/Excerpt]
+[Progress]1.237068[/Progress]
+C:\users\ivan\documents\adt\point.h
+[Progress]1.242542[/Progress]
+C:\users\ivan\documents\adt\point2.c
+[Progress]1.248016[/Progress]
+C:\users\ivan\documents\adt\pointer2.c
+[Progress]1.253489[/Progress]
+C:\users\ivan\documents\adt\pointer2.exe
+[Progress]1.258963[/Progress]
+C:\users\ivan\documents\adt\pr3.c
+[Progress]1.264437[/Progress]
+C:\users\ivan\documents\adt\queue1.c
+[Progress]1.269911[/Progress]
+C:\users\ivan\documents\adt\queue1.exe
+[Progress]1.275385[/Progress]
+C:\users\ivan\documents\adt\queue1.h
+[Progress]1.280858[/Progress]
+C:\users\ivan\documents\adt\queue2.c
+[Progress]1.286332[/Progress]
+C:\users\ivan\documents\adt\queue2.exe
+[Progress]1.291806[/Progress]
+C:\users\ivan\documents\adt\queue2.h
+[Progress]1.29728[/Progress]
+C:\users\ivan\documents\adt\queue3 - Copy.c
+[Progress]1.302753[/Progress]
+C:\users\ivan\documents\adt\queue3.c
+[Progress]1.308227[/Progress]
+C:\users\ivan\documents\adt\queue3.exe
+[Progress]1.313701[/Progress]
+C:\users\ivan\documents\adt\queue3.h
+[Progress]1.319175[/Progress]
+C:\users\ivan\documents\adt\reverse1.txt
+[Progress]1.324648[/Progress]
+C:\users\ivan\documents\adt\set.c
+[Progress]1.330122[/Progress]
+C:\users\ivan\documents\adt\soal.c
+[Progress]1.335596[/Progress]
+C:\users\ivan\documents\adt\soal.exe
+[Progress]1.34107[/Progress]
+C:\users\ivan\documents\adt\soal.txt
+[Progress]1.346543[/Progress]
+C:\users\ivan\documents\adt\stack1.c
+[Progress]1.352017[/Progress]
+C:\users\ivan\documents\adt\stack1.h
+[Progress]1.357491[/Progress]
+C:\users\ivan\documents\adt\stack2.c
+[Progress]1.362965[/Progress]
+C:\users\ivan\documents\adt\stack2.h
+[Progress]1.368438[/Progress]
+C:\users\ivan\documents\adt\tabel.exe
+[Progress]1.373912[/Progress]
+C:\users\ivan\documents\adt\tabel1.c
+[Progress]1.379386[/Progress]
+C:\users\ivan\documents\adt\tabel1.h
+[Progress]1.38486[/Progress]
+C:\users\ivan\documents\adt\tabel2 (2).c
+[Progress]1.390333[/Progress]
+C:\users\ivan\documents\adt\tabel2.c
+[Progress]1.395807[/Progress]
+C:\users\ivan\documents\adt\tabel2.exe
+[Progress]1.401281[/Progress]
+C:\users\ivan\documents\adt\tabel2.h
+[Progress]1.406755[/Progress]
+C:\users\ivan\documents\adt\tanggal.c
+[Progress]1.412228[/Progress]
+C:\users\ivan\documents\adt\tanggal.h
+[Progress]1.417702[/Progress]
+C:\users\ivan\documents\adt\tes0.c
+[Progress]1.423176[/Progress]
+C:\users\ivan\documents\adt\tes0.exe
+[Progress]1.42865[/Progress]
+C:\users\ivan\documents\adt\Tictactoe-O.svg
+[Progress]1.434123[/Progress]
+C:\users\ivan\documents\adt\tubes alstruk.zip
+[Progress]1.439597[/Progress]
+C:\users\ivan\documents\adt\TUBES2 TBFO v1.zip
+[Progress]1.445071[/Progress]
+C:\users\ivan\documents\adt\tugas alstruk graph.txt
+[Progress]1.450545[/Progress]
+C:\users\ivan\documents\adt\waktu.c
+[Progress]1.456018[/Progress]
+C:\users\ivan\documents\adt\waktu.h
+[Progress]1.461492[/Progress]
+C:\users\ivan\documents\adt\z0.exe
+[Progress]1.466966[/Progress]
+C:\users\ivan\documents\adt\zz1.c
+[Progress]1.47244[/Progress]
+C:\users\ivan\documents\adt\zz1.exe
+[Progress]1.477913[/Progress]
+C:\users\ivan\documents\adt\zzz.c
+[Progress]1.483387[/Progress]
+C:\users\ivan\documents\adt\zzz.exe
+[Progress]1.488861[/Progress]
+[Progress]1.494335[/Progress]
+[Progress]1.499808[/Progress]
+C:\users\ivan\documents\Bluetooth Exchange Folder\acer Aspire V3-112P-P7LP.txt
+[Progress]1.505282[/Progress]
+C:\users\ivan\documents\Bluetooth Exchange Folder\Asus X455WA.txt
+[Progress]1.510756[/Progress]
+C:\users\ivan\documents\Bluetooth Exchange Folder\Gigabyte P34W V3.txt
+[Progress]1.51623[/Progress]
+C:\users\ivan\documents\Bluetooth Exchange Folder\ITC_Avant_Garde_Gothic_LT_Extra_Light.ttf
+[Progress]1.521703[/Progress]
+C:\users\ivan\documents\Bluetooth Exchange Folder\Lenovo LaVie Z Spec Sheet_1 1 15 FINAL.pdf
+[Progress]1.527177[/Progress]
+C:\users\ivan\documents\Bluetooth Exchange Folder\lenovo thinkpad e555.txt
+[Progress]1.532651[/Progress]
+C:\users\ivan\documents\Bluetooth Exchange Folder\Lenovo ThinkPad YOGA 12 14 15 Spec Sheet.pdf
+[Progress]1.538125[/Progress]
+C:\users\ivan\documents\Bluetooth Exchange Folder\Lenovo YOGA 3 11 and 14 inch Spec Sheet.pdf
+[Progress]1.543598[/Progress]
+C:\users\ivan\documents\Bluetooth Exchange Folder\Lenovo YOGA Tablet 2 (Windows_AnyPen) Spec Sheet.pdf
+[Progress]1.549072[/Progress]
+C:\users\ivan\documents\Bluetooth Exchange Folder\msi ge62 2qf.txt
+[Progress]1.554546[/Progress]
+C:\users\ivan\documents\Bluetooth Exchange Folder\tabook_we.pdf
+[Progress]1.56002[/Progress]
+C:\users\ivan\documents\Bluetooth Exchange Folder\ThinkPad_E540_Platform_Specifications.pdf
+[Progress]1.565493[/Progress]
+C:\users\ivan\documents\Bluetooth Exchange Folder\ThinkPad_E545_Platform_Specifications.pdf
+[Progress]1.570967[/Progress]
+[Progress]1.576441[/Progress]
+[Progress]1.581915[/Progress]
+[Progress]1.587389[/Progress]
+[Progress]1.592862[/Progress]
+[Progress]1.598336[/Progress]
+[Progress]1.60381[/Progress]
+[Progress]1.609283[/Progress]
+[Progress]1.614757[/Progress]
+[Progress]1.620231[/Progress]
+[Progress]1.625705[/Progress]
+[Progress]1.631178[/Progress]
+[Progress]1.636652[/Progress]
+[Progress]1.642126[/Progress]
+[Progress]1.6476[/Progress]
+[Progress]1.653074[/Progress]
+[Progress]1.658547[/Progress]
+[Progress]1.664021[/Progress]
+C:\users\ivan\documents\cakru2\.htaccess
+[Progress]1.669495[/Progress]
+C:\users\ivan\documents\cakru2\change_log.txt
+[Progress]1.674969[/Progress]
+C:\users\ivan\documents\cakru2\examples_database.sql.zip
+[Progress]1.680442[/Progress]
+C:\users\ivan\documents\cakru2\getjurusan.asp
+[Progress]1.685916[/Progress]
+C:\users\ivan\documents\cakru2\grocery-crud-1.4.1.zip
+[Progress]1.69139[/Progress]
+C:\users\ivan\documents\cakru2\index.php
+[Progress]1.696864[/Progress]
+C:\users\ivan\documents\cakru2\license-gpl3.txt
+[Progress]1.702337[/Progress]
+C:\users\ivan\documents\cakru2\license-grocery-crud.txt
+[Progress]1.707811[/Progress]
+C:\users\ivan\documents\cakru2\license-mit.txt
+[Progress]1.713285[/Progress]
+C:\users\ivan\documents\cakru2\license.txt
+[Progress]1.718759[/Progress]
+C:\users\ivan\documents\cakru2\README.md
+[Progress]1.724232[/Progress]
+[Progress]1.729706[/Progress]
+[Progress]1.73518[/Progress]
+[Progress]1.740654[/Progress]
+[Progress]1.746127[/Progress]
+[Progress]1.751601[/Progress]
+[Progress]1.757075[/Progress]
+[Progress]1.762549[/Progress]
+[Progress]1.768022[/Progress]
+[Progress]1.773496[/Progress]
+[Progress]1.77897[/Progress]
+[Progress]1.784444[/Progress]
+[Progress]1.789917[/Progress]
+[Progress]1.795391[/Progress]
+[Progress]1.800865[/Progress]
+C:\users\ivan\documents\CI\.gitignore
+[Progress]1.806339[/Progress]
+C:\users\ivan\documents\CI\.htaccess
+[Progress]1.811812[/Progress]
+C:\users\ivan\documents\CI\change_log.txt
+[Progress]1.817286[/Progress]
+C:\users\ivan\documents\CI\examples_database.sql.zip
+[Progress]1.82276[/Progress]
+C:\users\ivan\documents\CI\grocery-crud-1.4.1.zip
+[Progress]1.828234[/Progress]
+C:\users\ivan\documents\CI\index.php
+[Progress]1.833707[/Progress]
+C:\users\ivan\documents\CI\license-gpl3.txt
+[Progress]1.839181[/Progress]
+C:\users\ivan\documents\CI\license-grocery-crud.txt
+[Progress]1.844655[/Progress]
+C:\users\ivan\documents\CI\license-mit.txt
+[Progress]1.850129[/Progress]
+C:\users\ivan\documents\CI\license.txt
+[Progress]1.855602[/Progress]
+C:\users\ivan\documents\CI\README.md
+[Progress]1.861076[/Progress]
+[Progress]1.86655[/Progress]
+[Progress]1.872024[/Progress]
+C:\users\ivan\documents\cpp\makefile
+[Progress]1.877497[/Progress]
+C:\users\ivan\documents\cpp\mHello.cpp
+[Progress]1.882971[/Progress]
+C:\users\ivan\documents\cpp\mHello.exe
+[Progress]1.888445[/Progress]
+C:\users\ivan\documents\cpp\mHello.o
+[Progress]1.893919[/Progress]
+C:\users\ivan\documents\cpp\Proses.cpp
+[Progress]1.899392[/Progress]
+C:\users\ivan\documents\cpp\Proses.h
+[Progress]1.904866[/Progress]
+C:\users\ivan\documents\cpp\Proses.o
+[Progress]1.91034[/Progress]
+C:\users\ivan\documents\db_pemilu_arc\db.opt
+[Progress]1.915814[/Progress]
+C:\users\ivan\documents\db_pemilu_arc\kandidat.frm
+[Progress]1.921287[/Progress]
+C:\users\ivan\documents\db_pemilu_arc\kandidat.ibd
+[Progress]1.926761[/Progress]
+C:\users\ivan\documents\db_pemilu_arc\reqpass.frm
+[Progress]1.932235[/Progress]
+C:\users\ivan\documents\db_pemilu_arc\reqpass.ibd
+[Progress]1.937709[/Progress]
+C:\users\ivan\documents\db_pemilu_arc\user.frm
+[Progress]1.943182[/Progress]
+C:\users\ivan\documents\db_pemilu_arc\user.ibd
+[Progress]1.948656[/Progress]
+C:\users\ivan\documents\db_pemilu_arc\zzz.frm
+[Progress]1.95413[/Progress]
+C:\users\ivan\documents\db_pemilu_arc\zzz.ibd
+[Progress]1.959604[/Progress]
+C:\users\ivan\documents\db_pemilu_arc2\db.opt
+[Progress]1.965077[/Progress]
+C:\users\ivan\documents\db_pemilu_arc2\kandidat.frm
+[Progress]1.970551[/Progress]
+C:\users\ivan\documents\db_pemilu_arc2\kandidat.ibd
+[Progress]1.976025[/Progress]
+C:\users\ivan\documents\db_pemilu_arc2\reqpass.frm
+[Progress]1.981499[/Progress]
+C:\users\ivan\documents\db_pemilu_arc2\reqpass.ibd
+[Progress]1.986972[/Progress]
+C:\users\ivan\documents\db_pemilu_arc2\user.frm
+[Progress]1.992446[/Progress]
+C:\users\ivan\documents\db_pemilu_arc2\user.ibd
+[Progress]1.99792[/Progress]
+C:\users\ivan\documents\db_pemilu_arc2\zzz.frm
+[Progress]2.003394[/Progress]
+C:\users\ivan\documents\db_pemilu_arc2\zzz.ibd
+[Progress]2.008868[/Progress]
+[Progress]2.014341[/Progress]
+C:\users\ivan\documents\fix\friends.php
+[Progress]2.019815[/Progress]
+C:\users\ivan\documents\fix\v_friends.php
+[Progress]2.025289[/Progress]
+[Progress]2.030762[/Progress]
+[Progress]2.036236[/Progress]
+[Progress]2.04171[/Progress]
+[Progress]2.047184[/Progress]
+[Progress]2.052658[/Progress]
+[Progress]2.058131[/Progress]
+[Progress]2.063605[/Progress]
+[Progress]2.069079[/Progress]
+[Progress]2.074553[/Progress]
+[Progress]2.080026[/Progress]
+[Progress]2.0855[/Progress]
+[Progress]2.090974[/Progress]
+[Progress]2.096447[/Progress]
+[Progress]2.101921[/Progress]
+[Progress]2.107395[/Progress]
+[Progress]2.112869[/Progress]
+[Progress]2.118343[/Progress]
+[Progress]2.123816[/Progress]
+C:\users\ivan\documents\kuliah ga penting\SI-X, Situs Data Status dan Nilai Mahasiswa.htm
+[Title]SI-X, Situs Data Status dan Nilai Mahasiswa.htm[/Title]
+[Location]C:\users\ivan\documents\kuliah ga penting\SI-X, Situs Data Status dan Nilai Mahasiswa.htm[/Location]
+[Excerpt]wa_files/faceAkademik_cropped_r2_c1.gif"><strong>	Ivan Andrianto	(mahasiswa 13513039)</strong>:: <a [/Excerpt]
+[Progress]2.12929[/Progress]
+[Progress]2.134764[/Progress]
+C:\users\ivan\documents\net\pscp.txt
+[Title]pscp.txt[/Title]
+[Location]C:\users\ivan\documents\net\pscp.txt[/Location]
+[Excerpt]ximum = 1910ms, Average = 93msControl-C^CC:\Users\Ivan>C:\Users\Ivan>cd DownloadsC:\Users\Ivan\Downl[/Excerpt]
+[Progress]2.140238[/Progress]
+C:\users\ivan\documents\net\putty.txt
+[Title]putty.txt[/Title]
+[Location]C:\users\ivan\documents\net\putty.txt[/Location]
+[Excerpt]94ltLziXEHiC',NULL,'syaiful andy',2012,NULL),(37,'ivan@arc.itb.ac.id','4deaf8bf21b44bc2de1cf5f2798b1[/Excerpt]
+[Progress]2.145711[/Progress]
+[Progress]2.151185[/Progress]
+C:\users\ivan\documents\programs\EasyBCD Backup (2014-12-05).bcd
+[Progress]2.156659[/Progress]
+C:\users\ivan\documents\programs\eclipse-standard-kepler-SR1-win32-x86_64.zip
+[Progress]2.162133[/Progress]
+C:\users\ivan\documents\q\input0.txt
+[Progress]2.167606[/Progress]
+C:\users\ivan\documents\q\input100.txt
+[Progress]2.17308[/Progress]
+C:\users\ivan\documents\q\input2.txt
+[Progress]2.178554[/Progress]
+[Progress]2.184028[/Progress]
+[Progress]2.189501[/Progress]
+C:\users\ivan\documents\revisi oop\elmtlist.cpp
+[Progress]2.194975[/Progress]
+C:\users\ivan\documents\revisi oop\ElmtList.h
+[Progress]2.200449[/Progress]
+C:\users\ivan\documents\revisi oop\infix.cpp
+[Progress]2.205923[/Progress]
+C:\users\ivan\documents\revisi oop\infix.h
+[Progress]2.211396[/Progress]
+C:\users\ivan\documents\revisi oop\junitnumber.cpp
+[Progress]2.21687[/Progress]
+C:\users\ivan\documents\revisi oop\list.cpp
+[Progress]2.222344[/Progress]
+C:\users\ivan\documents\revisi oop\list.exe
+[Progress]2.227818[/Progress]
+C:\users\ivan\documents\revisi oop\list.h
+[Progress]2.233291[/Progress]
+C:\users\ivan\documents\revisi oop\listelmt.h
+[Progress]2.238765[/Progress]
+C:\users\ivan\documents\revisi oop\listexception.h
+[Progress]2.244239[/Progress]
+C:\users\ivan\documents\revisi oop\main.cpp
+[Progress]2.249713[/Progress]
+C:\users\ivan\documents\revisi oop\main.exe
+[Progress]2.255187[/Progress]
+C:\users\ivan\documents\revisi oop\mlist.cpp
+[Progress]2.26066[/Progress]
+C:\users\ivan\documents\revisi oop\mlist.exe
+[Progress]2.266134[/Progress]
+C:\users\ivan\documents\revisi oop\mlistexception.c
+[Progress]2.271608[/Progress]
+C:\users\ivan\documents\revisi oop\mode.cpp
+[Progress]2.277081[/Progress]
+C:\users\ivan\documents\revisi oop\mode.h
+[Progress]2.282555[/Progress]
+C:\users\ivan\documents\revisi oop\number.cpp
+[Progress]2.288029[/Progress]
+C:\users\ivan\documents\revisi oop\number.h
+[Progress]2.293503[/Progress]
+C:\users\ivan\documents\revisi oop\parser.cpp
+[Progress]2.298976[/Progress]
+C:\users\ivan\documents\revisi oop\parser.h
+[Progress]2.30445[/Progress]
+C:\users\ivan\documents\revisi oop\parser.zip
+[Progress]2.309924[/Progress]
+C:\users\ivan\documents\revisi oop\postfix.cpp
+[Progress]2.315398[/Progress]
+C:\users\ivan\documents\revisi oop\postfix.h
+[Progress]2.320872[/Progress]
+C:\users\ivan\documents\revisi oop\prefix.cpp
+[Progress]2.326345[/Progress]
+C:\users\ivan\documents\revisi oop\prefix.h
+[Progress]2.331819[/Progress]
+C:\users\ivan\documents\revisi oop\stack.cpp
+[Progress]2.337293[/Progress]
+C:\users\ivan\documents\revisi oop\stack.h
+[Progress]2.342767[/Progress]
+C:\users\ivan\documents\revisi oop\style.cpp
+[Progress]2.34824[/Progress]
+C:\users\ivan\documents\revisi oop\style.h
+[Progress]2.353714[/Progress]
+C:\users\ivan\documents\revisi oop\_stack.h
+[Progress]2.359188[/Progress]
+[Progress]2.364661[/Progress]
+C:\users\ivan\documents\Screen Video\Screen 03-30-2015 03-59-03.avi
+[Progress]2.370135[/Progress]
+C:\users\ivan\documents\script\calendar-blue.gif
+[Progress]2.375609[/Progress]
+C:\users\ivan\documents\script\calendar-green.gif
+[Progress]2.381083[/Progress]
+C:\users\ivan\documents\script\calendar.gif
+[Progress]2.386556[/Progress]
+C:\users\ivan\documents\script\datepickBasic.html
+[Progress]2.39203[/Progress]
+C:\users\ivan\documents\script\flora.datepick.css
+[Progress]2.397504[/Progress]
+C:\users\ivan\documents\script\humanity.datepick.css
+[Progress]2.402978[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-af.js
+[Progress]2.408451[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-am.js
+[Progress]2.413925[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-ar-DZ.js
+[Progress]2.419399[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-ar-EG.js
+[Progress]2.424873[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-ar.js
+[Progress]2.430346[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-az.js
+[Progress]2.43582[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-bg.js
+[Progress]2.441294[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-bs.js
+[Progress]2.446768[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-ca.js
+[Progress]2.452241[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-cs.js
+[Progress]2.457715[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-da.js
+[Progress]2.463189[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-de-CH.js
+[Progress]2.468663[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-de.js
+[Progress]2.474136[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-el.js
+[Progress]2.47961[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-en-AU.js
+[Progress]2.485084[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-en-GB.js
+[Progress]2.490558[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-en-NZ.js
+[Progress]2.496032[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-eo.js
+[Progress]2.501505[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-es-AR.js
+[Progress]2.506979[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-es-PE.js
+[Progress]2.512453[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-es.js
+[Progress]2.517926[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-et.js
+[Progress]2.5234[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-eu.js
+[Progress]2.528874[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-fa.js
+[Progress]2.534348[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-fi.js
+[Progress]2.539822[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-fo.js
+[Progress]2.545295[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-fr-CH.js
+[Title]jquery.datepick-fr-CH.js[/Title]
+[Location]C:\users\ivan\documents\script\jquery.datepick-fr-CH.js[/Location]
+[Excerpt]xtText: 'Suiv&#x3e;', nextStatus: 'Voir le mois suivant',		nextJumpText: '&#x3e;&#x3e;', nextJumpSta[/Excerpt]
+[Progress]2.550769[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-fr.js
+[Title]jquery.datepick-fr.js[/Title]
+[Location]C:\users\ivan\documents\script\jquery.datepick-fr.js[/Location]
+[Excerpt]xtText: 'Suiv&#x3e;', nextStatus: 'Voir le mois suivant',		nextJumpText: '&#x3e;&#x3e;', nextJumpSta[/Excerpt]
+[Progress]2.556243[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-gl.js
+[Progress]2.561717[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-gu.js
+[Progress]2.56719[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-he.js
+[Progress]2.572664[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-hi-IN.js
+[Progress]2.578138[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-hi.js
+[Progress]2.583611[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-hr.js
+[Progress]2.589085[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-hu.js
+[Progress]2.594559[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-hy.js
+[Progress]2.600033[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-id.js
+[Progress]2.605507[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-is.js
+[Progress]2.61098[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-it.js
+[Progress]2.616454[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-ja.js
+[Progress]2.621928[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-ka.js
+[Progress]2.627402[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-km.js
+[Progress]2.632875[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-ko.js
+[Progress]2.638349[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-lt.js
+[Progress]2.643823[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-lv.js
+[Progress]2.649297[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-me-ME.js
+[Progress]2.65477[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-me.js
+[Progress]2.660244[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-mk.js
+[Progress]2.665718[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-ml.js
+[Progress]2.671192[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-ms.js
+[Progress]2.676665[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-mt.js
+[Progress]2.682139[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-nl-BE.js
+[Progress]2.687613[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-nl.js
+[Progress]2.693087[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-no.js
+[Progress]2.69856[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-pl.js
+[Progress]2.704034[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-pt-BR.js
+[Progress]2.709508[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-pt.js
+[Progress]2.714982[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-rm.js
+[Progress]2.720455[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-ro.js
+[Progress]2.725929[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-ru.js
+[Progress]2.731403[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-sk.js
+[Progress]2.736877[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-sl.js
+[Progress]2.742351[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-sq.js
+[Progress]2.747824[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-sr-SR.js
+[Progress]2.753298[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-sr.js
+[Progress]2.758772[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-sv.js
+[Progress]2.764246[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-ta.js
+[Progress]2.769719[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-th.js
+[Progress]2.775193[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-tr.js
+[Progress]2.780667[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-uk.js
+[Progress]2.78614[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-ur.js
+[Progress]2.791614[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-vi.js
+[Progress]2.797088[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-zh-CN.js
+[Progress]2.802562[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-zh-HK.js
+[Progress]2.808036[/Progress]
+C:\users\ivan\documents\script\jquery.datepick-zh-TW.js
+[Progress]2.813509[/Progress]
+C:\users\ivan\documents\script\jquery.datepick.css
+[Progress]2.818983[/Progress]
+C:\users\ivan\documents\script\jquery.datepick.ext.js
+[Progress]2.824457[/Progress]
+C:\users\ivan\documents\script\jquery.datepick.ext.min.js
+[Progress]2.829931[/Progress]
+C:\users\ivan\documents\script\jquery.datepick.js
+[Progress]2.835404[/Progress]
+C:\users\ivan\documents\script\jquery.datepick.lang.js
+[Title]jquery.datepick.lang.js[/Title]
+[Location]C:\users\ivan\documents\script\jquery.datepick.lang.js[/Location]
+[Excerpt]xtText: 'Suiv&#x3e;', nextStatus: 'Voir le mois suivant',		nextJumpText: '&#x3e;&#x3e;', nextJumpSta[/Excerpt]
+[Progress]2.840878[/Progress]
+C:\users\ivan\documents\script\jquery.datepick.lang.min.js
+[Title]jquery.datepick.lang.min.js[/Title]
+[Location]C:\users\ivan\documents\script\jquery.datepick.lang.min.js[/Location]
+[Excerpt],nextText:'Suiv&#x3e;',nextStatus:'Voir le mois suivant',nextJumpText:'&#x3e;&#x3e;',nextJumpStatus:[/Excerpt]
+[Progress]2.846352[/Progress]
+C:\users\ivan\documents\script\jquery.datepick.min.js
+[Progress]2.851825[/Progress]
+C:\users\ivan\documents\script\jquery.datepick.validation.js
+[Progress]2.857299[/Progress]
+C:\users\ivan\documents\script\jquery.datepick.validation.min.js
+[Progress]2.862773[/Progress]
+C:\users\ivan\documents\script\jquery.plugin.js
+[Progress]2.868247[/Progress]
+C:\users\ivan\documents\script\jquery.plugin.min.js
+[Progress]2.873721[/Progress]
+C:\users\ivan\documents\script\redmond.datepick.css
+[Progress]2.879194[/Progress]
+C:\users\ivan\documents\script\smoothness.datepick.css
+[Progress]2.884668[/Progress]
+C:\users\ivan\documents\script\ui-black-tie.datepick.css
+[Progress]2.890142[/Progress]
+C:\users\ivan\documents\script\ui-blitzer.datepick.css
+[Progress]2.895615[/Progress]
+C:\users\ivan\documents\script\ui-cupertino.datepick.css
+[Progress]2.901089[/Progress]
+C:\users\ivan\documents\script\ui-dark-hive.datepick.css
+[Progress]2.906563[/Progress]
+C:\users\ivan\documents\script\ui-dot-luv.datepick.css
+[Progress]2.912037[/Progress]
+C:\users\ivan\documents\script\ui-eggplant.datepick.css
+[Progress]2.917511[/Progress]
+C:\users\ivan\documents\script\ui-excite-bike.datepick.css
+[Progress]2.922984[/Progress]
+C:\users\ivan\documents\script\ui-flick.datepick.css
+[Progress]2.928458[/Progress]
+C:\users\ivan\documents\script\ui-hot-sneaks.datepick.css
+[Progress]2.933932[/Progress]
+C:\users\ivan\documents\script\ui-humanity.datepick.css
+[Progress]2.939405[/Progress]
+C:\users\ivan\documents\script\ui-le-frog.datepick.css
+[Progress]2.944879[/Progress]
+C:\users\ivan\documents\script\ui-mint-choc.datepick.css
+[Progress]2.950353[/Progress]
+C:\users\ivan\documents\script\ui-overcast.datepick.css
+[Progress]2.955827[/Progress]
+C:\users\ivan\documents\script\ui-pepper-grinder.datepick.css
+[Progress]2.961301[/Progress]
+C:\users\ivan\documents\script\ui-redmond.datepick.css
+[Progress]2.966774[/Progress]
+C:\users\ivan\documents\script\ui-smoothness.datepick.css
+[Progress]2.972248[/Progress]
+C:\users\ivan\documents\script\ui-south-street.datepick.css
+[Progress]2.977722[/Progress]
+C:\users\ivan\documents\script\ui-start.datepick.css
+[Progress]2.983196[/Progress]
+C:\users\ivan\documents\script\ui-sunny.datepick.css
+[Progress]2.988669[/Progress]
+C:\users\ivan\documents\script\ui-swanky-purse.datepick.css
+[Progress]2.994143[/Progress]
+C:\users\ivan\documents\script\ui-trontastic.datepick.css
+[Progress]2.999617[/Progress]
+C:\users\ivan\documents\script\ui-ui-darkness.datepick.css
+[Progress]3.00509[/Progress]
+C:\users\ivan\documents\script\ui-ui-lightness.datepick.css
+[Progress]3.010564[/Progress]
+C:\users\ivan\documents\script\ui-vader.datepick.css
+[Progress]3.016038[/Progress]
+C:\users\ivan\documents\script\ui.datepick.css
+[Progress]3.021512[/Progress]
+C:\users\ivan\documents\SelfMV\SelfMV.LOG
+[Progress]3.026986[/Progress]
+[Progress]3.032459[/Progress]
+[Progress]3.037933[/Progress]
+C:\users\ivan\documents\stima2\coba.cs
+[Progress]3.043407[/Progress]
+C:\users\ivan\documents\stima2\Default.aspx
+[Progress]3.048881[/Progress]
+[Progress]3.054354[/Progress]
+[Progress]3.059828[/Progress]
+[Progress]3.065302[/Progress]
+[Progress]3.070776[/Progress]
+[Progress]3.076249[/Progress]
+[Title]Ivan[/Title]
+[Location]C:\users\ivan\documents\tes1\Ivan[/Location]
+[Excerpt]Ivan[/Excerpt]
+[Progress]3.081723[/Progress]
+C:\users\ivan\documents\tes1\a.c
+[Title]a.c[/Title]
+[Location]C:\users\ivan\documents\tes1\a.c[/Location]
+[Excerpt]int main(){	printf("ivan 902314"9;		return 0;}[/Excerpt]
+[Progress]3.087197[/Progress]
+C:\users\ivan\documents\tes1\a.pas
+[Title]a.pas[/Title]
+[Location]C:\users\ivan\documents\tes1\a.pas[/Location]
+[Excerpt]program p;begin	writeln('Ivan');end;[/Excerpt]
+[Progress]3.092671[/Progress]
+C:\users\ivan\documents\tes1\cont_prob_dist.ppt
+[Progress]3.098144[/Progress]
+C:\users\ivan\documents\tes1\Free spire.doc 5.1.zip
+[Progress]3.103618[/Progress]
+C:\users\ivan\documents\tes1\Kebutuhan dan Spesifikasi PL.pdf
+[Progress]3.109092[/Progress]
+C:\users\ivan\documents\tes1\Tugas Sistem Operasi Ivan Andrianto 135313039 Deadlock.docx
+[Title]Tugas Sistem Operasi Ivan Andrianto 135313039 Deadlock.docx[/Title]
+[Location]C:\users\ivan\documents\tes1\Tugas Sistem Operasi Ivan Andrianto 135313039 Deadlock.docx[/Location]
+[Excerpt]Ivan Andrianto135130397.3.a. Need matrix        A  B  C  DP0    0  0  0  0P1    0  7  5  0P2    1  0[/Excerpt]
+[Progress]3.114566[/Progress]
+C:\users\ivan\documents\tes1\tugas.docx
+[Title]tugas.docx[/Title]
+[Location]C:\users\ivan\documents\tes1\tugas.docx[/Location]
+[Excerpt]Ivan Andrianto135130397.3.a. Need matrix        A  B  C  DP0    0  0  0  0P1    0  7  5  0P2    1  0[/Excerpt]
+[Progress]3.120039[/Progress]
+C:\users\ivan\documents\tes1\z.txt
+[Title]z.txt[/Title]
+[Location]C:\users\ivan\documents\tes1\z.txt[/Location]
+[Excerpt]Ivan Chibi[/Excerpt]
+[Progress]3.125513[/Progress]
+C:\users\ivan\documents\tes1\z2.txt
+[Progress]3.130987[/Progress]
+C:\users\ivan\documents\tes1 - Copy\Ivan Chibi.docx
+[Title]Ivan Chibi.docx[/Title]
+[Location]C:\users\ivan\documents\tes1 - Copy\Ivan Chibi.docx[/Location]
+[Excerpt]Ivan Chibi[/Excerpt]
+[Progress]3.136461[/Progress]
+C:\users\ivan\documents\tes1 - Copy\z.txt
+[Title]z.txt[/Title]
+[Location]C:\users\ivan\documents\tes1 - Copy\z.txt[/Location]
+[Excerpt]Ivan Chibi[/Excerpt]
+[Progress]3.141934[/Progress]
+C:\users\ivan\documents\tes1 - Copy\z2.txt
+[Progress]3.147408[/Progress]
+C:\users\ivan\documents\tes1 - Copy\~$F2230] Tugas Sinkronisasi Proses - 13513039.docx
+[Progress]3.152882[/Progress]
+C:\users\ivan\documents\tes1 - Copy\~$waban tugas os bab 5.docx
+[Progress]3.158355[/Progress]
+[Progress]3.163829[/Progress]
+[Progress]3.169303[/Progress]
+C:\users\ivan\documents\tubesoop\calc.exe
+[Progress]3.174777[/Progress]
+C:\users\ivan\documents\tubesoop\calculator.cpp
+[Progress]3.180251[/Progress]
+C:\users\ivan\documents\tubesoop\elmtlist.cpp
+[Progress]3.185724[/Progress]
+C:\users\ivan\documents\tubesoop\ElmtList.h
+[Progress]3.191198[/Progress]
+C:\users\ivan\documents\tubesoop\infix.cpp
+[Progress]3.196672[/Progress]
+C:\users\ivan\documents\tubesoop\infix.h
+[Progress]3.202146[/Progress]
+C:\users\ivan\documents\tubesoop\junitnumber.cpp
+[Progress]3.207619[/Progress]
+C:\users\ivan\documents\tubesoop\list.cpp
+[Progress]3.213093[/Progress]
+C:\users\ivan\documents\tubesoop\list.exe
+[Progress]3.218567[/Progress]
+C:\users\ivan\documents\tubesoop\list.h
+[Progress]3.224041[/Progress]
+C:\users\ivan\documents\tubesoop\listelmt.h
+[Progress]3.229515[/Progress]
+C:\users\ivan\documents\tubesoop\listexception.h
+[Progress]3.234988[/Progress]
+C:\users\ivan\documents\tubesoop\main.cpp
+[Progress]3.240462[/Progress]
+C:\users\ivan\documents\tubesoop\main.exe
+[Progress]3.245936[/Progress]
+C:\users\ivan\documents\tubesoop\memori.cpp
+[Progress]3.25141[/Progress]
+C:\users\ivan\documents\tubesoop\memori.h
+[Progress]3.256883[/Progress]
+C:\users\ivan\documents\tubesoop\mlist.cpp
+[Progress]3.262357[/Progress]
+C:\users\ivan\documents\tubesoop\mlist.exe
+[Progress]3.267831[/Progress]
+C:\users\ivan\documents\tubesoop\mlistexception.c
+[Progress]3.273304[/Progress]
+C:\users\ivan\documents\tubesoop\mode.cpp
+[Progress]3.278778[/Progress]
+C:\users\ivan\documents\tubesoop\mode.h
+[Progress]3.284252[/Progress]
+C:\users\ivan\documents\tubesoop\number.cpp
+[Progress]3.289726[/Progress]
+C:\users\ivan\documents\tubesoop\number.h
+[Progress]3.2952[/Progress]
+C:\users\ivan\documents\tubesoop\output
+[Progress]3.300673[/Progress]
+C:\users\ivan\documents\tubesoop\output.txt
+[Progress]3.306147[/Progress]
+C:\users\ivan\documents\tubesoop\parser.cpp
+[Progress]3.311621[/Progress]
+C:\users\ivan\documents\tubesoop\parser.h
+[Progress]3.317095[/Progress]
+C:\users\ivan\documents\tubesoop\parser.zip
+[Progress]3.322568[/Progress]
+C:\users\ivan\documents\tubesoop\postfix.cpp
+[Progress]3.328042[/Progress]
+C:\users\ivan\documents\tubesoop\postfix.h
+[Progress]3.333516[/Progress]
+C:\users\ivan\documents\tubesoop\prefix.cpp
+[Progress]3.33899[/Progress]
+C:\users\ivan\documents\tubesoop\prefix.h
+[Progress]3.344463[/Progress]
+C:\users\ivan\documents\tubesoop\stack.cpp
+[Progress]3.349937[/Progress]
+C:\users\ivan\documents\tubesoop\stack.h
+[Progress]3.355411[/Progress]
+C:\users\ivan\documents\tubesoop\style.cpp
+[Progress]3.360885[/Progress]
+C:\users\ivan\documents\tubesoop\style.h
+[Progress]3.366358[/Progress]
+C:\users\ivan\documents\tubesoop\tes.exe
+[Progress]3.371832[/Progress]
+C:\users\ivan\documents\tubesoop\tesgetline.cpp
+[Progress]3.377306[/Progress]
+C:\users\ivan\documents\tubesoop\_prefix.cpp
+[Progress]3.38278[/Progress]
+C:\users\ivan\documents\tubesoop\_stack.h
+[Progress]3.388253[/Progress]
+[Progress]3.393727[/Progress]
+[Progress]3.399201[/Progress]
+[Progress]3.404675[/Progress]
+[Progress]3.410148[/Progress]
+[Progress]3.415622[/Progress]
+[Progress]3.421096[/Progress]
+[Progress]3.42657[/Progress]
+[Progress]3.432043[/Progress]
+[Progress]3.437517[/Progress]
+[Progress]3.442991[/Progress]
+C:\users\ivan\documents\Visual Studio 2013\TugasBesar1-OOP.zip
+[Progress]3.448465[/Progress]
+[Progress]3.453938[/Progress]
+[Progress]3.459412[/Progress]
+[Progress]3.464886[/Progress]
+[Progress]3.47036[/Progress]
+[Progress]3.475833[/Progress]
+[Progress]3.481307[/Progress]
+[Progress]3.486781[/Progress]
+[Progress]3.492255[/Progress]
+[Progress]3.497728[/Progress]
+[Progress]3.503202[/Progress]
+C:\users\ivan\documents\z\127_0_0_1.sql
+[Progress]3.508676[/Progress]
+C:\users\ivan\documents\z\friends.php
+[Progress]3.51415[/Progress]
+C:\users\ivan\documents\z\friends_model.php
+[Progress]3.519623[/Progress]
+C:\users\ivan\documents\z\login.php
+[Progress]3.525097[/Progress]
+C:\users\ivan\documents\z\login_model.php
+[Progress]3.530571[/Progress]
+C:\users\ivan\documents\z\Pagination.php
+[Progress]3.536045[/Progress]
+C:\users\ivan\documents\z\pass.txt
+[Progress]3.541518[/Progress]
+C:\users\ivan\documents\z\v_friends.php
+[Progress]3.546992[/Progress]
+C:\users\ivan\documents\z\v_login3.php
+[Progress]3.552466[/Progress]
+C:\users\ivan\documents\zts\a.doc
+[Title]a.doc[/Title]
+[Location]C:\users\ivan\documents\zts\a.doc[/Location]
+[Excerpt]                                                  Ivan 09q4qewoka                                   [/Excerpt]
+[Progress]3.55794[/Progress]
+C:\users\ivan\documents\zts\Free spire.doc 5.1.zip
+[Progress]3.563413[/Progress]
+C:\users\ivan\documents\zts\Tugas Sistem Operasi Ivan Andrianto 135313039 Deadlock.docx
+[Title]Tugas Sistem Operasi Ivan Andrianto 135313039 Deadlock.docx[/Title]
+[Location]C:\users\ivan\documents\zts\Tugas Sistem Operasi Ivan Andrianto 135313039 Deadlock.docx[/Location]
+[Excerpt]Ivan Andrianto135130397.3.a. Need matrix        A  B  C  DP0    0  0  0  0P1    0  7  5  0P2    1  0[/Excerpt]
+[Progress]3.568887[/Progress]
+C:\users\ivan\documents\zts\tugas.docx
+[Title]tugas.docx[/Title]
+[Location]C:\users\ivan\documents\zts\tugas.docx[/Location]
+[Excerpt]Ivan Andrianto135130397.3.a. Need matrix        A  B  C  DP0    0  0  0  0P1    0  7  5  0P2    1  0[/Excerpt]
+[Progress]3.574361[/Progress]
+C:\users\ivan\documents\Alice3\MyProjects\a.a3p
+[Progress]3.579835[/Progress]
+C:\users\ivan\documents\Alice3\MyProjects\b.a3p
+[Progress]3.585308[/Progress]
+C:\users\ivan\documents\Alice3\MyProjects\project1.a3p
+[Progress]3.590782[/Progress]
+[Progress]3.596256[/Progress]
+[Progress]3.60173[/Progress]
+[Progress]3.607203[/Progress]
+[Progress]3.612677[/Progress]
+[Progress]3.618151[/Progress]
+[Progress]3.623625[/Progress]
+[Progress]3.629098[/Progress]
+[Progress]3.634573[/Progress]
+[Progress]3.640046[/Progress]
+[Progress]3.64552[/Progress]
+[Progress]3.650994[/Progress]
+[Progress]3.656467[/Progress]
+[Progress]3.661941[/Progress]
+C:\users\ivan\documents\cakru2\application\.htaccess
+[Progress]3.667415[/Progress]
+C:\users\ivan\documents\cakru2\application\index.html
+[Progress]3.672889[/Progress]
+[Progress]3.678362[/Progress]
+[Progress]3.683836[/Progress]
+[Progress]3.68931[/Progress]
+[Progress]3.694783[/Progress]
+C:\users\ivan\documents\cakru2\assets\index.html
+[Progress]3.700257[/Progress]
+C:\users\ivan\documents\cakru2\files\asu.txt
+[Progress]3.705731[/Progress]
+C:\users\ivan\documents\cakru2\files\asu1.txt
+[Title]asu1.txt[/Title]
+[Location]C:\users\ivan\documents\cakru2\files\asu1.txt[/Location]
+[Excerpt][Bawah][Bawah][Bawah][Atas][Atas][spasi]?YAHOO.COMIVANANDRIANTO48JKT5570TIME [BACKSPACE][BACKSPACE][[/Excerpt]
+[Progress]3.711205[/Progress]
+C:\users\ivan\documents\cakru2\files\asu2.txt
+[Progress]3.716679[/Progress]
+C:\users\ivan\documents\cakru2\font\Ubuntu-R.ttf
+[Progress]3.722152[/Progress]
+C:\users\ivan\documents\cakru2\foto\default.jpg
+[Progress]3.727626[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-10213052.jpg
+[Progress]3.7331[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-10213071.jpg
+[Progress]3.738574[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-10213074.PNG
+[Progress]3.744047[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-10213075.PNG
+[Progress]3.749521[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-10213102.jpg
+[Progress]3.754995[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-10313008.jpg
+[Progress]3.760468[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-13213034.jpg
+[Progress]3.765942[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-13213043.JPG
+[Progress]3.771416[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-13513024.JPG
+[Progress]3.77689[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-13513037.jpg
+[Progress]3.782364[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-13513039.jpg
+[Progress]3.787837[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-13513039.png
+[Progress]3.793311[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-13513042.jpg
+[Progress]3.798785[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-13513090.jpg
+[Progress]3.804259[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-13513090.png
+[Progress]3.809732[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-13513096.JPG
+[Progress]3.815206[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-13514602.jpg
+[Progress]3.82068[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-15113070.jpg
+[Progress]3.826154[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16014004.jpg
+[Progress]3.831627[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16014180.jpg
+[Progress]3.837101[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16014220.JPG
+[Progress]3.842575[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16014232.jpg
+[Progress]3.848049[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16014241.jpg
+[Progress]3.853522[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16014254.JPG
+[Progress]3.858996[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16014258.jpg
+[Progress]3.86447[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16014290.JPG
+[Progress]3.869944[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16014308.jpg
+[Progress]3.875417[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16414272.jpg
+[Progress]3.880891[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16414336.jpg
+[Progress]3.886365[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16513054.jpg
+[Progress]3.891839[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514010.png
+[Progress]3.897312[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514012.jpg
+[Progress]3.902786[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514018.jpg
+[Progress]3.90826[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514021.png
+[Progress]3.913734[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514026.jpg
+[Progress]3.919207[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514051.jpg
+[Progress]3.924681[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514056.JPG
+[Progress]3.930155[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514064.jpg
+[Progress]3.935629[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514071.jpeg
+[Progress]3.941102[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514072.jpg
+[Progress]3.946576[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514075.jpg
+[Progress]3.95205[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514094.jpg
+[Progress]3.957524[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514099.jpg
+[Progress]3.962997[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514100.jpg
+[Progress]3.968471[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514108.jpg
+[Progress]3.973945[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514148.jpg
+[Progress]3.979419[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514149.jpg
+[Progress]3.984892[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514153.jpeg
+[Progress]3.990366[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514154.jpg
+[Progress]3.99584[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514178.jpg
+[Progress]4.001314[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514181.jpg
+[Progress]4.006787[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514190.JPG
+[Progress]4.012261[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514211.jpg
+[Progress]4.017735[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514215.jpg
+[Progress]4.023209[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514218.jpg
+[Progress]4.028682[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514222.jpg
+[Progress]4.034156[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514225.jpg
+[Progress]4.03963[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514238.JPG
+[Progress]4.045104[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514245.jpg
+[Progress]4.050578[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514248.jpg
+[Progress]4.056051[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514278.jpg
+[Progress]4.061525[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514288.jpg
+[Progress]4.066999[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514296.jpg
+[Progress]4.072473[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514297.jpg
+[Progress]4.077946[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514301.jpg
+[Progress]4.08342[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514310.jpeg
+[Progress]4.088894[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514311.jpg
+[Progress]4.094368[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514322.jpg
+[Progress]4.099842[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514327.jpg
+[Progress]4.105315[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514328.JPG
+[Progress]4.110789[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514350.png
+[Progress]4.116262[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514360.png
+[Progress]4.121737[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514362.JPG
+[Progress]4.12721[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514382.jpg
+[Progress]4.132684[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16514391.JPG
+[Progress]4.138157[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16714273.jpg
+[Progress]4.143631[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16714336.JPG
+[Progress]4.149105[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16914036.jpg
+[Progress]4.154579[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16914087.jpg
+[Progress]4.160052[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16914102.png
+[Progress]4.165526[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16914198.jpg
+[Progress]4.171[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-16914202.jpg
+[Progress]4.176474[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-19814091.jpg
+[Progress]4.181948[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-19814119.JPG
+[Progress]4.187421[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-19814129.jpg
+[Progress]4.192895[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-19914173.jpg
+[Progress]4.198369[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-20814011.jpg
+[Progress]4.203843[/Progress]
+C:\users\ivan\documents\cakru2\foto\foto-943121.PNG
+[Progress]4.209316[/Progress]
+C:\users\ivan\documents\cakru2\logo\arc-white.png
+[Progress]4.21479[/Progress]
+C:\users\ivan\documents\cakru2\logo\arc.png
+[Progress]4.220263[/Progress]
+C:\users\ivan\documents\cakru2\logo\arc2.png
+[Progress]4.225738[/Progress]
+C:\users\ivan\documents\cakru2\logo\bar-menu.jpg
+[Progress]4.231211[/Progress]
+C:\users\ivan\documents\cakru2\logo\bar.jpg
+[Progress]4.236685[/Progress]
+C:\users\ivan\documents\cakru2\logo\favicon-oprec.png
+[Progress]4.242159[/Progress]
+C:\users\ivan\documents\cakru2\logo\Lenovo G50 - 80E30181US (2).jpg
+[Progress]4.247633[/Progress]
+C:\users\ivan\documents\cakru2\logo\Lenovo G50 - 80E30181US.jpg
+[Progress]4.253106[/Progress]
+C:\users\ivan\documents\cakru2\logo\_arc.png
+[Progress]4.25858[/Progress]
+[Progress]4.264054[/Progress]
+[Progress]4.269527[/Progress]
+[Progress]4.275001[/Progress]
+[Progress]4.280475[/Progress]
+[Progress]4.285949[/Progress]
+[Progress]4.291423[/Progress]
+[Progress]4.296896[/Progress]
+C:\users\ivan\documents\cakru2\script\.gitignore
+[Progress]4.30237[/Progress]
+C:\users\ivan\documents\cakru2\script\bower.json
+[Progress]4.307844[/Progress]
+C:\users\ivan\documents\cakru2\script\custom.css
+[Progress]4.313318[/Progress]
+C:\users\ivan\documents\cakru2\script\datetimepicker.jquery.json
+[Progress]4.318791[/Progress]
+C:\users\ivan\documents\cakru2\script\jquery.datetimepicker.css
+[Progress]4.324265[/Progress]
+C:\users\ivan\documents\cakru2\script\jquery.datetimepicker.js
+[Progress]4.329739[/Progress]
+C:\users\ivan\documents\cakru2\script\jquery.js
+[Progress]4.335213[/Progress]
+C:\users\ivan\documents\cakru2\script\package.json
+[Progress]4.340686[/Progress]
+C:\users\ivan\documents\cakru2\script\style.css
+[Progress]4.34616[/Progress]
+C:\users\ivan\documents\cakru2\script\style2.css
